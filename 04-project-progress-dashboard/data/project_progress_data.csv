@@ -1,0 +1,73 @@
+project_id,project_name,milestone,team_member,department,start_date,due_date,completion_pct,status,priority,region
+PRJ-01,ERP Migration,Planning,Grace Kim,Finance,2025-02-09,2025-04-09,39,Delayed,Medium,North
+PRJ-01,ERP Migration,Design,Carol Smith,Finance,2025-01-09,2025-03-19,44,Delayed,Medium,North
+PRJ-01,ERP Migration,Development,Henry Davis,Finance,2025-03-12,2025-05-19,30,At Risk,Medium,North
+PRJ-01,ERP Migration,Testing,Frank Wilson,Finance,2025-02-03,2025-03-08,62,At Risk,Medium,North
+PRJ-01,ERP Migration,Deployment,Eva Brown,Finance,2025-03-16,2025-05-26,67,On Track,Medium,North
+PRJ-01,ERP Migration,Review,Alice Chen,Finance,2025-02-19,2025-06-07,7,Delayed,Medium,North
+PRJ-02,CRM Rollout,Planning,Bob Martinez,HR,2025-03-10,2025-06-06,100,Complete,Medium,South
+PRJ-02,CRM Rollout,Design,David Lee,HR,2025-02-10,2025-05-29,35,Delayed,Medium,South
+PRJ-02,CRM Rollout,Development,Bob Martinez,HR,2025-02-02,2025-04-06,71,On Track,Medium,South
+PRJ-02,CRM Rollout,Testing,Bob Martinez,HR,2025-03-08,2025-06-02,19,Delayed,Medium,South
+PRJ-02,CRM Rollout,Deployment,James White,HR,2025-02-06,2025-03-26,53,On Track,Medium,South
+PRJ-02,CRM Rollout,Review,Eva Brown,HR,2025-03-13,2025-04-16,77,On Track,Medium,South
+PRJ-03,Cloud Infrastructure,Planning,Eva Brown,Operations,2025-02-20,2025-05-16,31,At Risk,High,East
+PRJ-03,Cloud Infrastructure,Design,Irene Lopez,Operations,2025-02-26,2025-05-25,80,On Track,High,East
+PRJ-03,Cloud Infrastructure,Development,Irene Lopez,Operations,2025-02-09,2025-05-19,85,On Track,High,East
+PRJ-03,Cloud Infrastructure,Testing,Carol Smith,Operations,2025-01-22,2025-04-18,83,On Track,High,East
+PRJ-03,Cloud Infrastructure,Deployment,Bob Martinez,Operations,2025-03-14,2025-03-28,36,Delayed,High,East
+PRJ-03,Cloud Infrastructure,Review,Grace Kim,Operations,2025-02-12,2025-05-11,27,Delayed,High,East
+PRJ-04,HR Portal,Planning,Eva Brown,Sales,2025-01-04,2025-02-01,67,On Track,Medium,West
+PRJ-04,HR Portal,Design,Grace Kim,Sales,2025-02-28,2025-05-02,28,At Risk,Medium,West
+PRJ-04,HR Portal,Development,Henry Davis,Sales,2025-02-21,2025-05-13,28,At Risk,Medium,West
+PRJ-04,HR Portal,Testing,Frank Wilson,Sales,2025-03-13,2025-04-28,63,On Track,Medium,West
+PRJ-04,HR Portal,Deployment,Eva Brown,Sales,2025-03-30,2025-05-05,64,At Risk,Medium,West
+PRJ-04,HR Portal,Review,Irene Lopez,Sales,2025-01-04,2025-02-11,84,On Track,Medium,West
+PRJ-05,Data Warehouse,Planning,Carol Smith,IT,2025-02-09,2025-05-04,45,At Risk,High,Central
+PRJ-05,Data Warehouse,Design,Henry Davis,IT,2025-03-31,2025-06-23,41,At Risk,High,Central
+PRJ-05,Data Warehouse,Development,Irene Lopez,IT,2025-01-29,2025-03-01,54,On Track,High,Central
+PRJ-05,Data Warehouse,Testing,Alice Chen,IT,2025-03-11,2025-06-09,53,At Risk,High,Central
+PRJ-05,Data Warehouse,Deployment,Bob Martinez,IT,2025-03-23,2025-05-29,69,On Track,High,Central
+PRJ-05,Data Warehouse,Review,Grace Kim,IT,2025-02-14,2025-04-16,59,On Track,High,Central
+PRJ-06,Mobile App,Planning,David Lee,Finance,2025-02-24,2025-04-17,63,On Track,Medium,North
+PRJ-06,Mobile App,Design,Bob Martinez,Finance,2025-01-31,2025-05-26,100,Complete,Medium,North
+PRJ-06,Mobile App,Development,Eva Brown,Finance,2025-03-04,2025-05-05,100,Complete,Medium,North
+PRJ-06,Mobile App,Testing,Carol Smith,Finance,2025-01-24,2025-04-30,36,Delayed,Medium,North
+PRJ-06,Mobile App,Deployment,Eva Brown,Finance,2025-03-08,2025-04-19,67,On Track,Medium,North
+PRJ-06,Mobile App,Review,James White,Finance,2025-01-12,2025-03-15,78,On Track,Medium,North
+PRJ-07,Security Audit,Planning,David Lee,HR,2025-02-19,2025-03-23,100,Complete,Medium,South
+PRJ-07,Security Audit,Design,Alice Chen,HR,2025-03-10,2025-05-15,53,At Risk,Medium,South
+PRJ-07,Security Audit,Development,David Lee,HR,2025-02-26,2025-03-26,48,At Risk,Medium,South
+PRJ-07,Security Audit,Testing,Grace Kim,HR,2025-01-08,2025-04-12,66,On Track,Medium,South
+PRJ-07,Security Audit,Deployment,Bob Martinez,HR,2025-02-14,2025-03-19,63,On Track,Medium,South
+PRJ-07,Security Audit,Review,Grace Kim,HR,2025-01-10,2025-02-11,73,On Track,Medium,South
+PRJ-08,Process Automation,Planning,James White,Operations,2025-02-22,2025-04-24,38,At Risk,Low,East
+PRJ-08,Process Automation,Design,Carol Smith,Operations,2025-01-03,2025-02-02,63,At Risk,Low,East
+PRJ-08,Process Automation,Development,Eva Brown,Operations,2025-03-12,2025-04-01,28,At Risk,Low,East
+PRJ-08,Process Automation,Testing,Grace Kim,Operations,2025-02-14,2025-04-15,62,At Risk,Low,East
+PRJ-08,Process Automation,Deployment,Frank Wilson,Operations,2025-02-12,2025-05-22,60,On Track,Low,East
+PRJ-08,Process Automation,Review,Frank Wilson,Operations,2025-02-16,2025-05-31,67,On Track,Low,East
+PRJ-09,BI Platform,Planning,Alice Chen,Sales,2025-03-22,2025-06-01,30,At Risk,Low,West
+PRJ-09,BI Platform,Design,David Lee,Sales,2025-01-10,2025-04-04,76,On Track,Low,West
+PRJ-09,BI Platform,Development,Carol Smith,Sales,2025-03-01,2025-05-31,34,Delayed,Low,West
+PRJ-09,BI Platform,Testing,David Lee,Sales,2025-01-10,2025-03-30,86,On Track,Low,West
+PRJ-09,BI Platform,Deployment,Carol Smith,Sales,2025-01-04,2025-02-01,72,On Track,Low,West
+PRJ-09,BI Platform,Review,David Lee,Sales,2025-03-16,2025-05-17,82,On Track,Low,West
+PRJ-10,Customer Portal,Planning,Grace Kim,IT,2025-01-27,2025-04-16,70,On Track,Low,Central
+PRJ-10,Customer Portal,Design,James White,IT,2025-03-26,2025-04-28,56,On Track,Low,Central
+PRJ-10,Customer Portal,Development,Carol Smith,IT,2025-02-09,2025-06-05,100,Complete,Low,Central
+PRJ-10,Customer Portal,Testing,James White,IT,2025-01-09,2025-04-12,100,Complete,Low,Central
+PRJ-10,Customer Portal,Deployment,Carol Smith,IT,2025-03-22,2025-04-17,70,On Track,Low,Central
+PRJ-10,Customer Portal,Review,Alice Chen,IT,2025-03-11,2025-04-29,76,On Track,Low,Central
+PRJ-11,Compliance System,Planning,Henry Davis,Finance,2025-03-09,2025-05-02,100,Complete,Critical,North
+PRJ-11,Compliance System,Design,Carol Smith,Finance,2025-03-27,2025-05-05,52,On Track,Critical,North
+PRJ-11,Compliance System,Development,Irene Lopez,Finance,2025-03-22,2025-04-21,64,On Track,Critical,North
+PRJ-11,Compliance System,Testing,Frank Wilson,Finance,2025-03-06,2025-06-20,61,On Track,Critical,North
+PRJ-11,Compliance System,Deployment,David Lee,Finance,2025-03-31,2025-07-05,100,Complete,Critical,North
+PRJ-11,Compliance System,Review,Eva Brown,Finance,2025-02-15,2025-04-15,55,On Track,Critical,North
+PRJ-12,API Gateway,Planning,Carol Smith,HR,2025-01-12,2025-01-27,77,On Track,High,South
+PRJ-12,API Gateway,Design,Carol Smith,HR,2025-02-15,2025-06-07,52,At Risk,High,South
+PRJ-12,API Gateway,Development,Eva Brown,HR,2025-01-18,2025-05-03,37,Delayed,High,South
+PRJ-12,API Gateway,Testing,Alice Chen,HR,2025-03-08,2025-06-17,55,On Track,High,South
+PRJ-12,API Gateway,Deployment,Frank Wilson,HR,2025-03-25,2025-04-16,65,On Track,High,South
+PRJ-12,API Gateway,Review,Bob Martinez,HR,2025-02-13,2025-04-21,100,Complete,High,South
