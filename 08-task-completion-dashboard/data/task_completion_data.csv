@@ -1,0 +1,551 @@
+task_id,task_name,assignee,department,assigned_date,due_date,completion_date,status,priority,is_overdue,days_overdue,sprint
+TASK0001,Budget Review,Bob Martinez,HR,2025-11-10,2025-11-18,,Overdue,Medium,True,2,8
+TASK0002,Product Launch,Henry Davis,IT,2025-02-27,2025-03-24,,Overdue,Medium,True,9,10
+TASK0003,Process Improvement,Henry Davis,IT,2026-01-06,2026-01-23,,In Progress,Low,False,0,4
+TASK0004,Budget Review,Grace Chen,HR,2026-01-22,2026-02-16,,In Progress,High,False,0,9
+TASK0005,Budget Review,Emma Brown,Sales,2026-03-13,2026-03-28,2026-04-03,Completed,Medium,True,6,7
+TASK0006,Risk Assessment,Karen Thomas,Finance,2025-01-20,2025-02-06,2025-02-05,Completed,High,False,0,8
+TASK0007,Process Improvement,Liam Jackson,HR,2025-05-27,2025-06-23,,Cancelled,Medium,False,0,7
+TASK0008,System Upgrade,Frank Wilson,Finance,2025-11-05,2025-11-20,2025-11-21,Completed,Medium,True,1,5
+TASK0009,Policy Update,David Lee,Operations,2025-10-11,2025-11-01,2025-10-30,Completed,Medium,False,0,2
+TASK0010,Performance Review,Emma Brown,Sales,2026-02-09,2026-02-19,,Overdue,Low,True,5,9
+TASK0011,Quarterly Report,Karen Thomas,Finance,2025-12-25,2026-01-18,2026-01-23,Completed,High,True,5,9
+TASK0012,Risk Assessment,James Anderson,Sales,2025-08-16,2025-09-03,,Overdue,Medium,True,1,6
+TASK0013,Risk Assessment,Carol White,IT,2026-01-20,2026-02-07,,In Progress,High,False,0,7
+TASK0014,Budget Review,Bob Martinez,HR,2025-09-09,2025-10-03,,In Progress,Medium,False,0,8
+TASK0015,Client Presentation,Emma Brown,Sales,2025-05-05,2025-05-19,2025-05-26,Completed,Critical,True,7,10
+TASK0016,Data Migration,Maria Harris,IT,2026-02-17,2026-02-27,2026-03-01,Completed,High,True,2,9
+TASK0017,Vendor Evaluation,James Anderson,Sales,2025-07-04,2025-07-17,,Overdue,Medium,True,8,10
+TASK0018,Budget Review,Maria Harris,IT,2025-12-14,2026-01-05,2026-01-09,Completed,High,True,4,2
+TASK0019,Team Meeting,Grace Chen,HR,2025-08-12,2025-09-02,2025-09-04,Completed,High,True,2,10
+TASK0020,Contract Negotiation,Grace Chen,HR,2025-10-01,2025-10-13,2025-10-20,Completed,High,True,7,7
+TASK0021,Code Review,Bob Martinez,HR,2025-08-11,2025-09-01,,Cancelled,High,False,0,4
+TASK0022,Data Migration,Grace Chen,HR,2025-11-19,2025-12-13,,Overdue,Low,True,9,3
+TASK0023,System Upgrade,Liam Jackson,HR,2025-07-25,2025-08-16,,Cancelled,Critical,False,0,3
+TASK0024,Team Meeting,David Lee,Operations,2025-07-28,2025-08-23,,In Progress,High,False,0,6
+TASK0025,Compliance Audit,Alice Johnson,Finance,2025-10-10,2025-10-16,2025-10-19,Completed,Medium,True,3,8
+TASK0026,Dashboard Setup,Bob Martinez,HR,2025-01-19,2025-01-26,2025-01-28,Completed,Critical,True,2,7
+TASK0027,Team Meeting,Carol White,IT,2025-09-22,2025-10-16,2025-10-15,Completed,High,False,0,4
+TASK0028,Contract Negotiation,Emma Brown,Sales,2025-09-23,2025-10-03,2025-10-01,Completed,Medium,False,0,10
+TASK0029,Budget Review,Carol White,IT,2025-02-07,2025-02-17,,Overdue,Medium,True,10,10
+TASK0030,Product Launch,Karen Thomas,Finance,2025-08-02,2025-08-26,,In Progress,Low,False,0,5
+TASK0031,Process Improvement,Emma Brown,Sales,2025-05-09,2025-05-12,2025-05-13,Completed,High,True,1,9
+TASK0032,Training Session,Maria Harris,IT,2025-05-23,2025-05-28,2025-06-01,Completed,Low,True,4,4
+TASK0033,Security Patch,Karen Thomas,Finance,2026-02-27,2026-03-22,,In Progress,High,False,0,8
+TASK0034,Client Presentation,Emma Brown,Sales,2025-01-17,2025-01-23,2025-01-26,Completed,Low,True,3,2
+TASK0035,Market Analysis,Isabella Taylor,Operations,2025-05-23,2025-05-31,,Overdue,Low,True,19,4
+TASK0036,Market Analysis,James Anderson,Sales,2026-02-26,2026-03-05,2026-03-04,Completed,Medium,False,0,3
+TASK0037,Team Meeting,Henry Davis,IT,2026-02-06,2026-02-11,,Cancelled,Medium,False,0,1
+TASK0038,Product Launch,Liam Jackson,HR,2025-07-31,2025-08-11,,Overdue,Low,True,1,2
+TASK0039,Budget Review,Liam Jackson,HR,2025-11-28,2025-12-21,2025-12-22,Completed,Medium,True,1,9
+TASK0040,System Upgrade,David Lee,Operations,2025-01-31,2025-02-25,2025-03-03,Completed,Low,True,6,1
+TASK0041,Stakeholder Report,Carol White,IT,2025-01-21,2025-01-29,,In Progress,High,False,0,8
+TASK0042,Risk Assessment,Emma Brown,Sales,2025-08-14,2025-08-28,,Cancelled,Medium,False,0,4
+TASK0043,System Upgrade,Carol White,IT,2025-01-09,2025-01-30,2025-02-06,Completed,Critical,True,7,3
+TASK0044,Training Session,Bob Martinez,HR,2025-07-07,2025-07-15,,In Progress,Medium,False,0,8
+TASK0045,Policy Update,Maria Harris,IT,2025-02-28,2025-03-14,,Overdue,Medium,True,3,9
+TASK0046,System Upgrade,Isabella Taylor,Operations,2025-08-08,2025-08-24,2025-08-28,Completed,High,True,4,10
+TASK0047,Risk Assessment,Emma Brown,Sales,2025-01-12,2025-01-31,,Cancelled,High,False,0,10
+TASK0048,System Upgrade,Isabella Taylor,Operations,2025-12-03,2025-12-17,2025-12-15,Completed,Medium,False,0,8
+TASK0049,Policy Update,Olivia Lewis,Sales,2025-07-14,2025-07-29,,Cancelled,Medium,False,0,8
+TASK0050,Data Migration,James Anderson,Sales,2026-01-09,2026-01-18,2026-01-23,Completed,Critical,True,5,8
+TASK0051,Code Review,Grace Chen,HR,2026-01-26,2026-02-18,,In Progress,Medium,False,0,3
+TASK0052,Process Improvement,James Anderson,Sales,2025-02-21,2025-03-13,2025-03-20,Completed,Medium,True,7,10
+TASK0053,Client Presentation,Nathan Clark,Operations,2026-03-24,2026-04-16,2026-04-22,Completed,Medium,True,6,3
+TASK0054,Training Session,Maria Harris,IT,2025-06-11,2025-06-17,2025-06-16,Completed,High,False,0,5
+TASK0055,Code Review,Maria Harris,IT,2025-09-27,2025-10-04,2025-10-03,Completed,High,False,0,10
+TASK0056,Quarterly Report,Emma Brown,Sales,2025-11-16,2025-11-20,2025-11-19,Completed,High,False,0,6
+TASK0057,Vendor Evaluation,Carol White,IT,2025-12-28,2026-01-10,,In Progress,Critical,False,0,6
+TASK0058,Dashboard Setup,Maria Harris,IT,2026-01-19,2026-02-05,,Overdue,Medium,True,1,4
+TASK0059,Contract Negotiation,Henry Davis,IT,2025-09-15,2025-10-13,2025-10-15,Completed,High,True,2,2
+TASK0060,Stakeholder Report,Emma Brown,Sales,2025-02-15,2025-02-20,2025-02-26,Completed,High,True,6,1
+TASK0061,Policy Update,Bob Martinez,HR,2026-01-15,2026-02-08,2026-02-15,Completed,Low,True,7,1
+TASK0062,Contract Negotiation,David Lee,Operations,2025-10-17,2025-11-05,,Overdue,Low,True,15,10
+TASK0063,Market Analysis,Liam Jackson,HR,2026-01-21,2026-02-15,2026-02-17,Completed,Medium,True,2,2
+TASK0064,Budget Review,Liam Jackson,HR,2025-03-04,2025-03-18,2025-03-20,Completed,Medium,True,2,4
+TASK0065,Product Launch,Carol White,IT,2025-06-14,2025-07-06,2025-07-07,Completed,High,True,1,5
+TASK0066,Dashboard Setup,Grace Chen,HR,2026-03-03,2026-03-24,2026-03-31,Completed,Medium,True,7,4
+TASK0067,Market Analysis,Maria Harris,IT,2026-01-17,2026-02-02,2026-02-06,Completed,High,True,4,5
+TASK0068,Budget Review,David Lee,Operations,2025-05-10,2025-05-17,,In Progress,Medium,False,0,9
+TASK0069,Stakeholder Report,Liam Jackson,HR,2026-02-18,2026-02-24,,In Progress,High,False,0,6
+TASK0070,Training Session,Olivia Lewis,Sales,2025-02-08,2025-02-25,,In Progress,Critical,False,0,7
+TASK0071,Policy Update,Olivia Lewis,Sales,2025-07-03,2025-07-22,,Cancelled,High,False,0,2
+TASK0072,Budget Review,Grace Chen,HR,2025-04-25,2025-05-17,,Cancelled,Medium,False,0,8
+TASK0073,Team Meeting,Isabella Taylor,Operations,2025-02-28,2025-03-18,,In Progress,Critical,False,0,2
+TASK0074,Security Patch,Alice Johnson,Finance,2025-12-10,2026-01-06,2026-01-11,Completed,Medium,True,5,6
+TASK0075,Policy Update,Henry Davis,IT,2025-02-23,2025-03-19,,Cancelled,Medium,False,0,5
+TASK0076,Process Improvement,Bob Martinez,HR,2026-02-19,2026-03-14,,In Progress,Critical,False,0,8
+TASK0077,Policy Update,David Lee,Operations,2025-12-10,2025-12-30,,Overdue,High,True,6,7
+TASK0078,Market Analysis,Liam Jackson,HR,2025-03-08,2025-03-13,2025-03-20,Completed,High,True,7,4
+TASK0079,Team Meeting,Isabella Taylor,Operations,2025-09-06,2025-10-04,,In Progress,High,False,0,5
+TASK0080,Performance Review,Olivia Lewis,Sales,2025-10-21,2025-11-19,2025-11-17,Completed,Medium,False,0,2
+TASK0081,Stakeholder Report,Karen Thomas,Finance,2026-01-31,2026-02-20,2026-02-19,Completed,Low,False,0,3
+TASK0082,Quarterly Report,Bob Martinez,HR,2025-02-13,2025-02-28,,In Progress,Medium,False,0,6
+TASK0083,Compliance Audit,Karen Thomas,Finance,2025-07-19,2025-07-22,2025-07-23,Completed,High,True,1,9
+TASK0084,Performance Review,Henry Davis,IT,2026-03-25,2026-03-29,2026-04-04,Completed,Medium,True,6,10
+TASK0085,Vendor Evaluation,Karen Thomas,Finance,2026-03-26,2026-03-29,2026-04-02,Completed,Low,True,4,3
+TASK0086,Stakeholder Report,Carol White,IT,2025-01-14,2025-01-23,,Overdue,Critical,True,5,7
+TASK0087,Quarterly Report,Grace Chen,HR,2026-02-14,2026-02-24,2026-02-28,Completed,Medium,True,4,2
+TASK0088,Policy Update,Nathan Clark,Operations,2025-09-30,2025-10-29,2025-11-04,Completed,Critical,True,6,1
+TASK0089,Vendor Evaluation,Olivia Lewis,Sales,2025-12-27,2026-01-25,2026-02-01,Completed,Low,True,7,3
+TASK0090,Process Improvement,Bob Martinez,HR,2025-01-19,2025-02-03,,Overdue,Medium,True,4,8
+TASK0091,Product Launch,Bob Martinez,HR,2025-10-11,2025-10-16,,Overdue,Medium,True,17,2
+TASK0092,Quarterly Report,Grace Chen,HR,2025-05-02,2025-05-07,2025-05-12,Completed,Medium,True,5,2
+TASK0093,Budget Review,Henry Davis,IT,2025-10-05,2025-10-08,2025-10-06,Completed,Medium,False,0,10
+TASK0094,Performance Review,David Lee,Operations,2025-02-11,2025-03-06,2025-03-05,Completed,Medium,False,0,9
+TASK0095,Data Migration,Frank Wilson,Finance,2025-10-14,2025-11-09,,Overdue,Medium,True,11,10
+TASK0096,Process Improvement,Grace Chen,HR,2025-09-18,2025-10-05,2025-10-09,Completed,Low,True,4,2
+TASK0097,Risk Assessment,David Lee,Operations,2025-08-17,2025-09-07,2025-09-09,Completed,Low,True,2,7
+TASK0098,Code Review,Nathan Clark,Operations,2025-05-06,2025-05-11,2025-05-12,Completed,High,True,1,5
+TASK0099,Market Analysis,James Anderson,Sales,2025-07-05,2025-07-12,,In Progress,Medium,False,0,5
+TASK0100,Compliance Audit,Grace Chen,HR,2026-02-19,2026-02-22,,In Progress,High,False,0,7
+TASK0101,Budget Review,Emma Brown,Sales,2025-09-15,2025-09-27,2025-09-30,Completed,Medium,True,3,5
+TASK0102,Contract Negotiation,Isabella Taylor,Operations,2025-05-23,2025-06-01,,In Progress,Medium,False,0,8
+TASK0103,Contract Negotiation,Liam Jackson,HR,2025-08-25,2025-09-06,2025-09-13,Completed,Medium,True,7,6
+TASK0104,Code Review,Henry Davis,IT,2026-01-18,2026-02-03,,Overdue,Medium,True,14,2
+TASK0105,Policy Update,Henry Davis,IT,2025-06-22,2025-07-08,2025-07-06,Completed,Medium,False,0,6
+TASK0106,Budget Review,Bob Martinez,HR,2025-02-04,2025-02-14,,Overdue,Critical,True,11,9
+TASK0107,Security Patch,Frank Wilson,Finance,2026-02-11,2026-02-14,2026-02-16,Completed,High,True,2,1
+TASK0108,Team Meeting,Maria Harris,IT,2025-04-18,2025-05-07,2025-05-11,Completed,Low,True,4,8
+TASK0109,Market Analysis,Bob Martinez,HR,2025-07-22,2025-08-14,,Cancelled,High,False,0,1
+TASK0110,Dashboard Setup,Grace Chen,HR,2025-06-24,2025-07-21,,In Progress,Medium,False,0,4
+TASK0111,Product Launch,James Anderson,Sales,2025-07-30,2025-08-06,2025-08-11,Completed,Critical,True,5,8
+TASK0112,Training Session,Carol White,IT,2025-04-01,2025-04-26,,Cancelled,Low,False,0,10
+TASK0113,Policy Update,Maria Harris,IT,2025-06-26,2025-07-07,2025-07-05,Completed,High,False,0,10
+TASK0114,Code Review,Maria Harris,IT,2025-03-09,2025-03-20,2025-03-19,Completed,Medium,False,0,8
+TASK0115,Team Meeting,David Lee,Operations,2025-05-12,2025-05-20,2025-05-22,Completed,Critical,True,2,10
+TASK0116,Data Migration,Olivia Lewis,Sales,2025-04-20,2025-05-15,2025-05-21,Completed,Medium,True,6,6
+TASK0117,Dashboard Setup,Maria Harris,IT,2025-12-10,2025-12-29,,In Progress,Medium,False,0,7
+TASK0118,Compliance Audit,Alice Johnson,Finance,2026-02-24,2026-03-21,2026-03-22,Completed,High,True,1,9
+TASK0119,Product Launch,Henry Davis,IT,2025-07-13,2025-08-09,,Overdue,Medium,True,6,4
+TASK0120,Risk Assessment,Isabella Taylor,Operations,2026-01-17,2026-02-03,2026-02-06,Completed,Low,True,3,6
+TASK0121,Contract Negotiation,Bob Martinez,HR,2025-06-26,2025-07-03,,Cancelled,High,False,0,7
+TASK0122,Contract Negotiation,Alice Johnson,Finance,2026-02-22,2026-03-15,2026-03-17,Completed,High,True,2,4
+TASK0123,Process Improvement,Grace Chen,HR,2025-05-06,2025-05-13,2025-05-18,Completed,Medium,True,5,4
+TASK0124,Stakeholder Report,Henry Davis,IT,2025-08-03,2025-09-01,,In Progress,Low,False,0,7
+TASK0125,Market Analysis,Liam Jackson,HR,2025-10-08,2025-11-01,,In Progress,Low,False,0,3
+TASK0126,Policy Update,Grace Chen,HR,2025-07-18,2025-08-07,,Overdue,High,True,11,9
+TASK0127,Team Meeting,Olivia Lewis,Sales,2025-05-10,2025-06-04,,Cancelled,Low,False,0,7
+TASK0128,System Upgrade,Liam Jackson,HR,2025-05-14,2025-05-18,2025-05-21,Completed,Medium,True,3,1
+TASK0129,Risk Assessment,Liam Jackson,HR,2025-05-27,2025-06-25,,Cancelled,Medium,False,0,9
+TASK0130,Client Presentation,David Lee,Operations,2025-09-07,2025-09-24,2025-09-30,Completed,Medium,True,6,5
+TASK0131,Budget Review,David Lee,Operations,2025-06-17,2025-07-15,2025-07-13,Completed,Low,False,0,10
+TASK0132,Vendor Evaluation,Frank Wilson,Finance,2025-12-15,2025-12-18,,In Progress,Medium,False,0,2
+TASK0133,Quarterly Report,Maria Harris,IT,2026-02-13,2026-02-22,,Overdue,Medium,True,2,4
+TASK0134,Product Launch,James Anderson,Sales,2025-04-29,2025-05-20,2025-05-23,Completed,Low,True,3,10
+TASK0135,Vendor Evaluation,Alice Johnson,Finance,2025-04-25,2025-05-04,,Overdue,Medium,True,8,7
+TASK0136,Data Migration,Maria Harris,IT,2025-11-16,2025-12-04,,Overdue,High,True,9,10
+TASK0137,Team Meeting,Frank Wilson,Finance,2025-11-02,2025-11-07,,Overdue,High,True,13,9
+TASK0138,Market Analysis,Frank Wilson,Finance,2025-10-15,2025-10-26,,Overdue,Medium,True,15,6
+TASK0139,Market Analysis,Grace Chen,HR,2026-01-21,2026-02-11,,In Progress,High,False,0,2
+TASK0140,Client Presentation,Liam Jackson,HR,2025-08-12,2025-08-24,,Cancelled,High,False,0,6
+TASK0141,Client Presentation,Carol White,IT,2025-09-07,2025-09-10,2025-09-11,Completed,High,True,1,4
+TASK0142,Process Improvement,Grace Chen,HR,2026-02-04,2026-03-04,2026-03-11,Completed,Medium,True,7,5
+TASK0143,Stakeholder Report,Liam Jackson,HR,2025-06-23,2025-07-02,2025-07-05,Completed,Medium,True,3,4
+TASK0144,Security Patch,Emma Brown,Sales,2025-04-08,2025-04-26,2025-04-30,Completed,Low,True,4,10
+TASK0145,Compliance Audit,James Anderson,Sales,2025-03-21,2025-03-28,2025-03-29,Completed,High,True,1,3
+TASK0146,Dashboard Setup,Nathan Clark,Operations,2025-09-21,2025-10-15,,In Progress,High,False,0,3
+TASK0147,Training Session,James Anderson,Sales,2025-10-31,2025-11-09,,Cancelled,Medium,False,0,5
+TASK0148,Team Meeting,Maria Harris,IT,2025-03-19,2025-04-06,,Overdue,Low,True,7,5
+TASK0149,Product Launch,Bob Martinez,HR,2026-02-25,2026-03-11,,Cancelled,Medium,False,0,8
+TASK0150,Data Migration,Carol White,IT,2025-01-19,2025-01-23,2025-01-23,Completed,Low,False,0,1
+TASK0151,Dashboard Setup,Isabella Taylor,Operations,2025-05-21,2025-05-25,2025-05-23,Completed,Medium,False,0,1
+TASK0152,Stakeholder Report,Maria Harris,IT,2025-11-11,2025-11-26,2025-11-26,Completed,High,False,0,2
+TASK0153,Team Meeting,Olivia Lewis,Sales,2025-01-01,2025-01-11,2025-01-10,Completed,High,False,0,4
+TASK0154,Data Migration,Grace Chen,HR,2025-08-09,2025-08-12,2025-08-13,Completed,Critical,True,1,9
+TASK0155,Product Launch,Grace Chen,HR,2025-04-28,2025-05-07,,Overdue,Medium,True,7,5
+TASK0156,Compliance Audit,Isabella Taylor,Operations,2025-04-13,2025-05-06,,In Progress,Medium,False,0,3
+TASK0157,Risk Assessment,Emma Brown,Sales,2026-01-24,2026-02-15,2026-02-14,Completed,Low,False,0,5
+TASK0158,Code Review,Carol White,IT,2025-02-10,2025-02-13,2025-02-20,Completed,Critical,True,7,1
+TASK0159,Contract Negotiation,Carol White,IT,2025-08-02,2025-08-11,2025-08-09,Completed,Critical,False,0,8
+TASK0160,Quarterly Report,Isabella Taylor,Operations,2025-05-07,2025-06-02,,Overdue,Medium,True,11,5
+TASK0161,Stakeholder Report,James Anderson,Sales,2025-05-12,2025-05-21,,Overdue,High,True,5,10
+TASK0162,Market Analysis,Nathan Clark,Operations,2025-02-05,2025-02-17,,In Progress,Medium,False,0,10
+TASK0163,System Upgrade,Liam Jackson,HR,2025-09-28,2025-10-09,,Overdue,High,True,5,9
+TASK0164,Stakeholder Report,Henry Davis,IT,2025-01-14,2025-02-05,2025-02-06,Completed,High,True,1,5
+TASK0165,Policy Update,Frank Wilson,Finance,2025-11-15,2025-11-26,,In Progress,High,False,0,1
+TASK0166,Training Session,Liam Jackson,HR,2025-04-17,2025-04-23,,Overdue,High,True,15,2
+TASK0167,Product Launch,Carol White,IT,2025-02-24,2025-03-25,2025-03-25,Completed,Medium,False,0,8
+TASK0168,Training Session,Alice Johnson,Finance,2025-06-24,2025-06-30,,Cancelled,Critical,False,0,6
+TASK0169,Team Meeting,Isabella Taylor,Operations,2025-10-07,2025-10-14,2025-10-14,Completed,Low,False,0,9
+TASK0170,Compliance Audit,Karen Thomas,Finance,2025-10-26,2025-11-24,2025-11-30,Completed,Medium,True,6,1
+TASK0171,Policy Update,Carol White,IT,2026-01-29,2026-02-23,2026-02-23,Completed,Medium,False,0,1
+TASK0172,Dashboard Setup,James Anderson,Sales,2025-11-01,2025-11-18,2025-11-23,Completed,Medium,True,5,7
+TASK0173,System Upgrade,Liam Jackson,HR,2025-07-08,2025-08-04,,Cancelled,Medium,False,0,6
+TASK0174,Product Launch,Henry Davis,IT,2025-07-12,2025-07-26,,Overdue,Critical,True,18,4
+TASK0175,Vendor Evaluation,Bob Martinez,HR,2025-07-30,2025-08-06,2025-08-07,Completed,Low,True,1,2
+TASK0176,Stakeholder Report,Olivia Lewis,Sales,2026-03-19,2026-04-15,2026-04-15,Completed,High,False,0,10
+TASK0177,Stakeholder Report,David Lee,Operations,2025-10-18,2025-10-31,,Overdue,Medium,True,8,7
+TASK0178,Dashboard Setup,Henry Davis,IT,2026-03-04,2026-03-22,,Overdue,Medium,True,9,6
+TASK0179,Dashboard Setup,Bob Martinez,HR,2025-08-15,2025-08-20,,Overdue,Low,True,1,9
+TASK0180,Market Analysis,David Lee,Operations,2026-03-21,2026-04-03,2026-04-09,Completed,Medium,True,6,3
+TASK0181,Compliance Audit,Karen Thomas,Finance,2025-06-06,2025-06-25,2025-06-28,Completed,Low,True,3,7
+TASK0182,Code Review,Isabella Taylor,Operations,2025-08-15,2025-08-30,,In Progress,Medium,False,0,6
+TASK0183,Dashboard Setup,Bob Martinez,HR,2025-02-28,2025-03-11,2025-03-10,Completed,High,False,0,2
+TASK0184,Security Patch,Emma Brown,Sales,2025-04-20,2025-04-28,,Cancelled,High,False,0,7
+TASK0185,Data Migration,Bob Martinez,HR,2025-08-04,2025-08-12,,Overdue,Medium,True,19,4
+TASK0186,Data Migration,Carol White,IT,2025-02-27,2025-03-03,2025-03-01,Completed,Medium,False,0,5
+TASK0187,Risk Assessment,Henry Davis,IT,2026-02-02,2026-02-07,,In Progress,Low,False,0,7
+TASK0188,Compliance Audit,David Lee,Operations,2026-01-30,2026-02-22,,Overdue,High,True,18,3
+TASK0189,Training Session,Bob Martinez,HR,2025-02-02,2025-02-16,,Cancelled,Low,False,0,10
+TASK0190,Budget Review,Carol White,IT,2026-01-03,2026-01-28,,In Progress,High,False,0,5
+TASK0191,Budget Review,Liam Jackson,HR,2025-04-24,2025-05-09,2025-05-08,Completed,Medium,False,0,7
+TASK0192,Security Patch,Bob Martinez,HR,2025-05-14,2025-06-08,,Overdue,Medium,True,8,9
+TASK0193,Quarterly Report,Maria Harris,IT,2025-04-04,2025-04-23,,Overdue,Medium,True,18,5
+TASK0194,Performance Review,Grace Chen,HR,2025-04-30,2025-05-07,2025-05-13,Completed,Low,True,6,2
+TASK0195,Team Meeting,James Anderson,Sales,2025-04-21,2025-05-17,2025-05-22,Completed,Medium,True,5,2
+TASK0196,Product Launch,Carol White,IT,2025-08-27,2025-09-18,2025-09-18,Completed,Low,False,0,9
+TASK0197,Budget Review,Emma Brown,Sales,2026-02-04,2026-02-07,,Cancelled,High,False,0,3
+TASK0198,Product Launch,Liam Jackson,HR,2025-06-26,2025-07-13,2025-07-19,Completed,Medium,True,6,5
+TASK0199,Market Analysis,Grace Chen,HR,2025-02-10,2025-02-26,2025-03-04,Completed,High,True,6,2
+TASK0200,Client Presentation,Olivia Lewis,Sales,2025-03-15,2025-03-24,,In Progress,High,False,0,10
+TASK0201,Quarterly Report,Nathan Clark,Operations,2025-05-25,2025-06-21,,Cancelled,High,False,0,1
+TASK0202,Product Launch,James Anderson,Sales,2025-10-25,2025-11-02,2025-11-08,Completed,Medium,True,6,6
+TASK0203,Risk Assessment,Olivia Lewis,Sales,2026-01-13,2026-01-20,,Overdue,Low,True,16,4
+TASK0204,Compliance Audit,Nathan Clark,Operations,2025-01-26,2025-02-19,2025-02-23,Completed,High,True,4,10
+TASK0205,Client Presentation,James Anderson,Sales,2025-04-05,2025-05-02,,Overdue,Medium,True,11,9
+TASK0206,Market Analysis,Grace Chen,HR,2025-05-07,2025-05-17,2025-05-23,Completed,Medium,True,6,6
+TASK0207,Team Meeting,Alice Johnson,Finance,2025-12-21,2026-01-10,2026-01-12,Completed,Medium,True,2,5
+TASK0208,Security Patch,Frank Wilson,Finance,2025-11-20,2025-12-05,2025-12-06,Completed,Low,True,1,5
+TASK0209,Market Analysis,James Anderson,Sales,2025-08-25,2025-09-06,2025-09-09,Completed,Medium,True,3,7
+TASK0210,Quarterly Report,Carol White,IT,2026-03-21,2026-04-05,,Overdue,Medium,True,6,6
+TASK0211,Product Launch,Nathan Clark,Operations,2025-12-04,2025-12-24,,Cancelled,Medium,False,0,5
+TASK0212,Security Patch,Carol White,IT,2025-11-29,2025-12-12,2025-12-14,Completed,Low,True,2,4
+TASK0213,Security Patch,Nathan Clark,Operations,2026-02-13,2026-02-24,2026-02-26,Completed,Medium,True,2,6
+TASK0214,Risk Assessment,Carol White,IT,2025-07-18,2025-07-27,2025-07-26,Completed,High,False,0,7
+TASK0215,Security Patch,Maria Harris,IT,2025-10-26,2025-11-06,,In Progress,Medium,False,0,1
+TASK0216,Dashboard Setup,Alice Johnson,Finance,2026-02-27,2026-03-25,2026-03-30,Completed,High,True,5,2
+TASK0217,Data Migration,David Lee,Operations,2025-12-11,2025-12-17,2025-12-17,Completed,Medium,False,0,9
+TASK0218,Client Presentation,Emma Brown,Sales,2026-03-09,2026-03-26,,Cancelled,Medium,False,0,8
+TASK0219,Security Patch,Isabella Taylor,Operations,2025-04-25,2025-05-06,,In Progress,Low,False,0,8
+TASK0220,Performance Review,James Anderson,Sales,2025-07-18,2025-08-08,,Cancelled,High,False,0,6
+TASK0221,Market Analysis,Isabella Taylor,Operations,2025-10-02,2025-10-14,,Overdue,Medium,True,9,1
+TASK0222,Stakeholder Report,Carol White,IT,2025-09-03,2025-09-25,2025-09-27,Completed,Low,True,2,10
+TASK0223,Process Improvement,Grace Chen,HR,2026-02-15,2026-03-15,2026-03-22,Completed,High,True,7,7
+TASK0224,Market Analysis,Emma Brown,Sales,2025-12-11,2025-12-20,,Overdue,Low,True,15,9
+TASK0225,Contract Negotiation,Bob Martinez,HR,2025-10-18,2025-11-07,2025-11-07,Completed,Medium,False,0,5
+TASK0226,Data Migration,Emma Brown,Sales,2025-04-09,2025-04-29,2025-05-05,Completed,Medium,True,6,3
+TASK0227,Quarterly Report,Emma Brown,Sales,2025-06-01,2025-06-16,2025-06-21,Completed,High,True,5,9
+TASK0228,Contract Negotiation,Carol White,IT,2025-02-22,2025-02-28,,Overdue,High,True,8,9
+TASK0229,Quarterly Report,Grace Chen,HR,2025-07-10,2025-07-23,2025-07-27,Completed,High,True,4,10
+TASK0230,Code Review,Nathan Clark,Operations,2025-03-04,2025-03-22,2025-03-27,Completed,Low,True,5,10
+TASK0231,Risk Assessment,David Lee,Operations,2025-02-20,2025-03-14,,In Progress,Low,False,0,3
+TASK0232,Training Session,Maria Harris,IT,2025-04-20,2025-05-06,2025-05-06,Completed,High,False,0,6
+TASK0233,Market Analysis,Karen Thomas,Finance,2025-01-15,2025-01-31,,Cancelled,Medium,False,0,1
+TASK0234,Compliance Audit,Bob Martinez,HR,2025-05-24,2025-06-04,,Cancelled,Medium,False,0,1
+TASK0235,Vendor Evaluation,Grace Chen,HR,2025-12-10,2025-12-22,2025-12-23,Completed,Medium,True,1,4
+TASK0236,Process Improvement,Liam Jackson,HR,2025-06-27,2025-07-08,,Overdue,Low,True,5,10
+TASK0237,Stakeholder Report,Liam Jackson,HR,2025-05-01,2025-05-07,2025-05-10,Completed,Low,True,3,3
+TASK0238,Product Launch,Nathan Clark,Operations,2025-05-07,2025-05-11,2025-05-14,Completed,Critical,True,3,4
+TASK0239,Dashboard Setup,Alice Johnson,Finance,2025-02-14,2025-02-17,2025-02-18,Completed,Critical,True,1,9
+TASK0240,System Upgrade,James Anderson,Sales,2025-01-30,2025-02-25,2025-02-25,Completed,Low,False,0,1
+TASK0241,Budget Review,Maria Harris,IT,2025-07-10,2025-07-23,,Overdue,Medium,True,11,1
+TASK0242,Product Launch,Liam Jackson,HR,2025-08-31,2025-09-23,,Overdue,High,True,14,3
+TASK0243,Client Presentation,Grace Chen,HR,2025-10-19,2025-11-11,2025-11-18,Completed,High,True,7,7
+TASK0244,Team Meeting,Bob Martinez,HR,2025-01-20,2025-02-14,2025-02-12,Completed,Critical,False,0,2
+TASK0245,Vendor Evaluation,Frank Wilson,Finance,2025-03-22,2025-04-06,2025-04-13,Completed,Low,True,7,10
+TASK0246,Stakeholder Report,Frank Wilson,Finance,2025-07-24,2025-08-01,,Cancelled,Low,False,0,10
+TASK0247,Data Migration,James Anderson,Sales,2025-11-27,2025-11-30,2025-12-03,Completed,Medium,True,3,3
+TASK0248,Risk Assessment,Liam Jackson,HR,2025-01-12,2025-01-29,,In Progress,Low,False,0,6
+TASK0249,Data Migration,Alice Johnson,Finance,2025-05-10,2025-05-24,2025-05-24,Completed,Medium,False,0,7
+TASK0250,Performance Review,Liam Jackson,HR,2025-12-06,2025-12-16,,In Progress,Low,False,0,2
+TASK0251,Contract Negotiation,Bob Martinez,HR,2025-11-01,2025-11-26,,In Progress,High,False,0,6
+TASK0252,Stakeholder Report,Alice Johnson,Finance,2025-12-15,2026-01-04,2026-01-09,Completed,Critical,True,5,6
+TASK0253,Risk Assessment,Carol White,IT,2026-01-14,2026-02-11,2026-02-13,Completed,Low,True,2,9
+TASK0254,Team Meeting,Alice Johnson,Finance,2025-05-16,2025-06-06,,In Progress,High,False,0,5
+TASK0255,System Upgrade,Alice Johnson,Finance,2025-07-10,2025-07-27,2025-07-26,Completed,Critical,False,0,3
+TASK0256,Compliance Audit,Bob Martinez,HR,2025-06-12,2025-06-21,2025-06-19,Completed,Low,False,0,2
+TASK0257,Process Improvement,Henry Davis,IT,2025-04-03,2025-04-27,,In Progress,High,False,0,4
+TASK0258,System Upgrade,Nathan Clark,Operations,2025-01-23,2025-01-29,2025-01-31,Completed,Low,True,2,8
+TASK0259,Dashboard Setup,James Anderson,Sales,2025-02-16,2025-03-13,,Overdue,High,True,14,10
+TASK0260,Process Improvement,Henry Davis,IT,2025-01-29,2025-02-09,2025-02-11,Completed,Low,True,2,3
+TASK0261,Team Meeting,Olivia Lewis,Sales,2025-12-27,2026-01-25,,Overdue,Medium,True,7,10
+TASK0262,Performance Review,Henry Davis,IT,2025-12-29,2026-01-11,,Cancelled,Medium,False,0,10
+TASK0263,Client Presentation,Liam Jackson,HR,2025-03-28,2025-04-26,2025-04-25,Completed,High,False,0,6
+TASK0264,Vendor Evaluation,Liam Jackson,HR,2025-07-03,2025-07-17,2025-07-19,Completed,Medium,True,2,9
+TASK0265,Security Patch,Maria Harris,IT,2025-06-26,2025-07-19,,Cancelled,Low,False,0,7
+TASK0266,Risk Assessment,Emma Brown,Sales,2025-05-12,2025-06-01,,In Progress,Medium,False,0,4
+TASK0267,Budget Review,Frank Wilson,Finance,2025-06-20,2025-07-07,2025-07-05,Completed,High,False,0,6
+TASK0268,Stakeholder Report,Emma Brown,Sales,2025-04-07,2025-05-01,2025-05-04,Completed,Medium,True,3,2
+TASK0269,Market Analysis,Liam Jackson,HR,2026-02-22,2026-03-01,,Overdue,High,True,12,8
+TASK0270,Policy Update,Bob Martinez,HR,2025-06-26,2025-07-01,,Cancelled,Critical,False,0,7
+TASK0271,Quarterly Report,Nathan Clark,Operations,2026-02-26,2026-03-19,2026-03-26,Completed,Medium,True,7,7
+TASK0272,Stakeholder Report,Isabella Taylor,Operations,2025-04-18,2025-05-04,,Overdue,Critical,True,4,2
+TASK0273,Compliance Audit,Grace Chen,HR,2026-02-01,2026-02-27,,Overdue,Critical,True,19,10
+TASK0274,Team Meeting,Frank Wilson,Finance,2025-07-15,2025-08-07,2025-08-06,Completed,Medium,False,0,7
+TASK0275,Market Analysis,Henry Davis,IT,2025-12-23,2026-01-18,,Cancelled,Medium,False,0,1
+TASK0276,Training Session,Maria Harris,IT,2025-06-18,2025-06-24,,Overdue,Medium,True,2,2
+TASK0277,Contract Negotiation,Frank Wilson,Finance,2026-03-18,2026-04-09,,In Progress,Medium,False,0,9
+TASK0278,Process Improvement,James Anderson,Sales,2025-02-27,2025-03-05,2025-03-11,Completed,Medium,True,6,2
+TASK0279,Compliance Audit,Liam Jackson,HR,2025-11-25,2025-12-21,2025-12-19,Completed,Low,False,0,8
+TASK0280,Vendor Evaluation,Alice Johnson,Finance,2025-09-18,2025-09-25,2025-09-29,Completed,Medium,True,4,5
+TASK0281,Quarterly Report,Karen Thomas,Finance,2025-09-19,2025-10-04,,In Progress,High,False,0,2
+TASK0282,Training Session,Olivia Lewis,Sales,2025-03-26,2025-04-11,2025-04-12,Completed,High,True,1,6
+TASK0283,Client Presentation,Carol White,IT,2025-12-31,2026-01-14,2026-01-21,Completed,Low,True,7,1
+TASK0284,Stakeholder Report,David Lee,Operations,2025-10-13,2025-10-25,,Overdue,Medium,True,9,1
+TASK0285,Performance Review,Carol White,IT,2026-03-24,2026-04-08,2026-04-15,Completed,Critical,True,7,5
+TASK0286,Product Launch,James Anderson,Sales,2026-02-11,2026-02-24,2026-02-22,Completed,Medium,False,0,1
+TASK0287,Data Migration,Emma Brown,Sales,2025-01-27,2025-01-30,2025-02-05,Completed,Low,True,6,10
+TASK0288,Stakeholder Report,Olivia Lewis,Sales,2025-09-13,2025-10-05,,Cancelled,Medium,False,0,2
+TASK0289,Market Analysis,Frank Wilson,Finance,2025-05-10,2025-05-21,2025-05-26,Completed,Medium,True,5,2
+TASK0290,Budget Review,Carol White,IT,2025-10-31,2025-11-26,,Cancelled,High,False,0,2
+TASK0291,Contract Negotiation,Bob Martinez,HR,2026-01-14,2026-01-26,,Cancelled,Low,False,0,8
+TASK0292,Product Launch,Olivia Lewis,Sales,2025-06-24,2025-07-11,,Overdue,High,True,19,4
+TASK0293,Risk Assessment,Nathan Clark,Operations,2025-07-25,2025-08-09,,In Progress,Low,False,0,8
+TASK0294,System Upgrade,Maria Harris,IT,2025-02-10,2025-03-04,2025-03-02,Completed,High,False,0,4
+TASK0295,Policy Update,Isabella Taylor,Operations,2025-10-03,2025-10-08,,Cancelled,Medium,False,0,8
+TASK0296,Market Analysis,Alice Johnson,Finance,2026-01-04,2026-01-12,2026-01-13,Completed,High,True,1,3
+TASK0297,Client Presentation,Henry Davis,IT,2025-09-11,2025-09-15,,Cancelled,Low,False,0,1
+TASK0298,System Upgrade,Frank Wilson,Finance,2025-09-13,2025-09-25,2025-10-02,Completed,Critical,True,7,2
+TASK0299,Product Launch,David Lee,Operations,2025-12-27,2026-01-22,2026-01-26,Completed,Medium,True,4,6
+TASK0300,System Upgrade,James Anderson,Sales,2025-02-10,2025-02-25,2025-02-25,Completed,Low,False,0,9
+TASK0301,Compliance Audit,Grace Chen,HR,2025-12-13,2025-12-19,2025-12-22,Completed,Low,True,3,5
+TASK0302,Team Meeting,Grace Chen,HR,2025-10-30,2025-11-06,,In Progress,High,False,0,2
+TASK0303,Team Meeting,Grace Chen,HR,2025-11-18,2025-12-16,,In Progress,High,False,0,10
+TASK0304,Product Launch,Liam Jackson,HR,2025-08-22,2025-08-25,2025-08-28,Completed,High,True,3,2
+TASK0305,Product Launch,Olivia Lewis,Sales,2025-08-04,2025-08-31,2025-09-02,Completed,Low,True,2,5
+TASK0306,Security Patch,Olivia Lewis,Sales,2025-10-14,2025-11-02,2025-10-31,Completed,Medium,False,0,1
+TASK0307,Data Migration,Isabella Taylor,Operations,2025-08-03,2025-08-25,,Overdue,Medium,True,2,10
+TASK0308,Code Review,Maria Harris,IT,2025-07-12,2025-07-27,,Overdue,Medium,True,13,9
+TASK0309,Process Improvement,Carol White,IT,2025-10-26,2025-11-19,2025-11-23,Completed,Medium,True,4,9
+TASK0310,Contract Negotiation,Nathan Clark,Operations,2026-01-01,2026-01-13,2026-01-16,Completed,High,True,3,10
+TASK0311,Training Session,Alice Johnson,Finance,2025-12-02,2025-12-14,2025-12-13,Completed,Medium,False,0,8
+TASK0312,Client Presentation,Frank Wilson,Finance,2026-02-07,2026-03-01,,Overdue,Medium,True,6,2
+TASK0313,Data Migration,Isabella Taylor,Operations,2025-03-30,2025-04-12,2025-04-12,Completed,Low,False,0,2
+TASK0314,Team Meeting,Emma Brown,Sales,2025-11-15,2025-12-10,,Overdue,Low,True,4,6
+TASK0315,Performance Review,Liam Jackson,HR,2025-05-04,2025-05-13,2025-05-14,Completed,Medium,True,1,4
+TASK0316,System Upgrade,Frank Wilson,Finance,2025-02-01,2025-02-15,,In Progress,Medium,False,0,2
+TASK0317,Policy Update,Henry Davis,IT,2025-04-03,2025-04-18,,Overdue,Medium,True,9,2
+TASK0318,Team Meeting,Maria Harris,IT,2025-04-15,2025-04-30,2025-05-01,Completed,High,True,1,2
+TASK0319,Compliance Audit,Frank Wilson,Finance,2025-03-24,2025-04-03,,Overdue,High,True,7,2
+TASK0320,Performance Review,Bob Martinez,HR,2026-02-10,2026-02-19,2026-02-22,Completed,Medium,True,3,9
+TASK0321,Contract Negotiation,Liam Jackson,HR,2025-01-11,2025-02-06,2025-02-10,Completed,Low,True,4,7
+TASK0322,Code Review,Olivia Lewis,Sales,2025-08-15,2025-09-08,,Overdue,Medium,True,7,9
+TASK0323,Risk Assessment,Grace Chen,HR,2025-07-30,2025-08-15,2025-08-17,Completed,Critical,True,2,6
+TASK0324,Policy Update,Grace Chen,HR,2026-03-22,2026-03-27,,In Progress,Medium,False,0,7
+TASK0325,Dashboard Setup,Karen Thomas,Finance,2026-03-24,2026-04-14,,Overdue,Medium,True,17,3
+TASK0326,Security Patch,Bob Martinez,HR,2025-05-01,2025-05-26,2025-05-30,Completed,High,True,4,9
+TASK0327,Contract Negotiation,James Anderson,Sales,2025-05-14,2025-05-22,,In Progress,High,False,0,10
+TASK0328,Code Review,Carol White,IT,2025-12-11,2025-12-24,2025-12-22,Completed,High,False,0,7
+TASK0329,Team Meeting,Maria Harris,IT,2025-04-12,2025-05-06,2025-05-13,Completed,Medium,True,7,8
+TASK0330,Vendor Evaluation,David Lee,Operations,2026-03-26,2026-04-19,2026-04-21,Completed,Low,True,2,3
+TASK0331,Data Migration,David Lee,Operations,2025-01-03,2025-01-17,,Cancelled,High,False,0,6
+TASK0332,Contract Negotiation,Olivia Lewis,Sales,2025-12-14,2026-01-01,,Overdue,High,True,8,5
+TASK0333,Training Session,Liam Jackson,HR,2025-09-15,2025-09-27,2025-10-04,Completed,High,True,7,9
+TASK0334,Security Patch,Nathan Clark,Operations,2025-12-31,2026-01-23,2026-01-21,Completed,High,False,0,1
+TASK0335,Client Presentation,Carol White,IT,2025-03-26,2025-04-02,2025-04-01,Completed,Medium,False,0,4
+TASK0336,Product Launch,Isabella Taylor,Operations,2025-10-17,2025-11-08,,Overdue,Medium,True,14,5
+TASK0337,Client Presentation,Carol White,IT,2026-02-20,2026-02-24,2026-02-24,Completed,Medium,False,0,10
+TASK0338,Process Improvement,Olivia Lewis,Sales,2025-07-30,2025-08-05,2025-08-05,Completed,Medium,False,0,8
+TASK0339,Team Meeting,Carol White,IT,2025-12-25,2026-01-02,2026-01-09,Completed,Medium,True,7,2
+TASK0340,System Upgrade,Isabella Taylor,Operations,2025-04-25,2025-05-05,2025-05-04,Completed,High,False,0,9
+TASK0341,Process Improvement,Alice Johnson,Finance,2026-01-17,2026-02-06,2026-02-07,Completed,Medium,True,1,10
+TASK0342,Process Improvement,David Lee,Operations,2025-12-19,2025-12-26,,In Progress,High,False,0,1
+TASK0343,Policy Update,David Lee,Operations,2025-02-02,2025-02-11,,Overdue,Low,True,10,3
+TASK0344,Contract Negotiation,Alice Johnson,Finance,2025-08-30,2025-09-22,2025-09-26,Completed,Low,True,4,1
+TASK0345,Security Patch,Bob Martinez,HR,2026-03-15,2026-03-29,,Cancelled,Medium,False,0,2
+TASK0346,Quarterly Report,Alice Johnson,Finance,2026-01-05,2026-01-12,,Overdue,Medium,True,15,9
+TASK0347,Compliance Audit,James Anderson,Sales,2025-08-15,2025-09-05,2025-09-08,Completed,High,True,3,3
+TASK0348,Market Analysis,Henry Davis,IT,2026-02-15,2026-03-11,,Overdue,High,True,5,6
+TASK0349,Dashboard Setup,Liam Jackson,HR,2025-03-26,2025-04-07,2025-04-12,Completed,Medium,True,5,8
+TASK0350,Team Meeting,Grace Chen,HR,2026-03-19,2026-04-01,,Cancelled,Medium,False,0,10
+TASK0351,Market Analysis,Frank Wilson,Finance,2025-04-10,2025-04-15,2025-04-18,Completed,Medium,True,3,1
+TASK0352,Dashboard Setup,Grace Chen,HR,2025-09-28,2025-10-11,2025-10-15,Completed,Low,True,4,6
+TASK0353,Dashboard Setup,Olivia Lewis,Sales,2025-04-04,2025-04-16,2025-04-16,Completed,Low,False,0,3
+TASK0354,Quarterly Report,James Anderson,Sales,2025-07-24,2025-08-01,,Overdue,Medium,True,18,10
+TASK0355,Budget Review,Karen Thomas,Finance,2025-07-23,2025-08-04,2025-08-10,Completed,Medium,True,6,5
+TASK0356,Code Review,Maria Harris,IT,2026-01-26,2026-01-30,2026-01-31,Completed,Critical,True,1,5
+TASK0357,Security Patch,Liam Jackson,HR,2025-11-27,2025-12-23,,Overdue,High,True,6,3
+TASK0358,Client Presentation,David Lee,Operations,2025-12-24,2026-01-02,,Overdue,Medium,True,8,8
+TASK0359,Contract Negotiation,Alice Johnson,Finance,2025-06-17,2025-07-10,,In Progress,Low,False,0,2
+TASK0360,Budget Review,Nathan Clark,Operations,2025-10-16,2025-10-27,2025-10-27,Completed,Medium,False,0,6
+TASK0361,Market Analysis,Alice Johnson,Finance,2025-09-18,2025-09-24,2025-09-23,Completed,Low,False,0,9
+TASK0362,Policy Update,David Lee,Operations,2025-05-30,2025-06-24,,Cancelled,Low,False,0,10
+TASK0363,System Upgrade,Carol White,IT,2025-06-21,2025-06-25,2025-06-23,Completed,High,False,0,2
+TASK0364,Policy Update,Olivia Lewis,Sales,2025-11-27,2025-12-15,2025-12-13,Completed,Critical,False,0,6
+TASK0365,Contract Negotiation,Liam Jackson,HR,2025-07-17,2025-08-03,,Overdue,Medium,True,18,4
+TASK0366,Risk Assessment,Karen Thomas,Finance,2025-01-31,2025-02-07,2025-02-09,Completed,Medium,True,2,2
+TASK0367,Client Presentation,Liam Jackson,HR,2025-12-26,2026-01-20,2026-01-24,Completed,High,True,4,8
+TASK0368,Budget Review,Emma Brown,Sales,2026-02-01,2026-02-24,,Overdue,Medium,True,4,9
+TASK0369,Code Review,Emma Brown,Sales,2025-02-20,2025-03-02,,In Progress,High,False,0,7
+TASK0370,Data Migration,Olivia Lewis,Sales,2025-10-07,2025-10-22,,In Progress,High,False,0,6
+TASK0371,Vendor Evaluation,James Anderson,Sales,2025-10-05,2025-10-26,2025-10-29,Completed,Medium,True,3,4
+TASK0372,Process Improvement,Karen Thomas,Finance,2025-07-15,2025-07-20,2025-07-27,Completed,Critical,True,7,1
+TASK0373,Client Presentation,David Lee,Operations,2026-01-16,2026-02-10,,Overdue,Medium,True,9,8
+TASK0374,Risk Assessment,Isabella Taylor,Operations,2025-02-07,2025-02-26,2025-03-03,Completed,Medium,True,5,6
+TASK0375,Contract Negotiation,Nathan Clark,Operations,2026-03-26,2026-04-17,2026-04-16,Completed,Medium,False,0,7
+TASK0376,Code Review,Bob Martinez,HR,2025-05-31,2025-06-16,2025-06-19,Completed,Medium,True,3,6
+TASK0377,Team Meeting,Henry Davis,IT,2025-07-11,2025-07-19,2025-07-18,Completed,Low,False,0,6
+TASK0378,Dashboard Setup,Bob Martinez,HR,2025-08-31,2025-09-22,2025-09-27,Completed,Critical,True,5,4
+TASK0379,Code Review,Alice Johnson,Finance,2026-03-12,2026-03-19,2026-03-21,Completed,Medium,True,2,2
+TASK0380,Process Improvement,James Anderson,Sales,2025-05-11,2025-06-03,,In Progress,High,False,0,4
+TASK0381,Team Meeting,Carol White,IT,2025-12-07,2025-12-23,2025-12-29,Completed,Low,True,6,3
+TASK0382,Compliance Audit,Frank Wilson,Finance,2025-04-23,2025-05-14,2025-05-14,Completed,High,False,0,10
+TASK0383,System Upgrade,James Anderson,Sales,2025-08-26,2025-09-07,,Cancelled,Low,False,0,6
+TASK0384,Client Presentation,James Anderson,Sales,2025-06-20,2025-07-07,,Cancelled,Low,False,0,4
+TASK0385,Client Presentation,Karen Thomas,Finance,2026-03-20,2026-04-04,2026-04-11,Completed,High,True,7,9
+TASK0386,Quarterly Report,Nathan Clark,Operations,2025-05-25,2025-06-14,2025-06-17,Completed,Medium,True,3,10
+TASK0387,Process Improvement,Bob Martinez,HR,2025-07-03,2025-07-24,,In Progress,Medium,False,0,6
+TASK0388,System Upgrade,Liam Jackson,HR,2025-07-13,2025-07-21,2025-07-24,Completed,High,True,3,6
+TASK0389,Dashboard Setup,Maria Harris,IT,2026-03-20,2026-04-06,2026-04-05,Completed,Medium,False,0,2
+TASK0390,Vendor Evaluation,Alice Johnson,Finance,2026-02-06,2026-02-16,2026-02-20,Completed,High,True,4,3
+TASK0391,Quarterly Report,Alice Johnson,Finance,2025-01-11,2025-02-05,,In Progress,Critical,False,0,9
+TASK0392,Vendor Evaluation,Bob Martinez,HR,2025-07-19,2025-08-01,2025-07-30,Completed,Medium,False,0,2
+TASK0393,Product Launch,Grace Chen,HR,2025-03-22,2025-04-10,2025-04-17,Completed,Low,True,7,9
+TASK0394,Policy Update,Frank Wilson,Finance,2025-10-24,2025-10-30,2025-11-04,Completed,High,True,5,6
+TASK0395,Training Session,Carol White,IT,2025-05-16,2025-06-12,2025-06-14,Completed,Low,True,2,6
+TASK0396,System Upgrade,Liam Jackson,HR,2025-06-08,2025-06-24,2025-06-29,Completed,High,True,5,4
+TASK0397,Client Presentation,Frank Wilson,Finance,2025-10-02,2025-10-22,,In Progress,Medium,False,0,1
+TASK0398,System Upgrade,Liam Jackson,HR,2026-01-25,2026-02-09,,In Progress,Low,False,0,1
+TASK0399,Stakeholder Report,James Anderson,Sales,2025-04-11,2025-04-29,2025-05-01,Completed,High,True,2,7
+TASK0400,Training Session,Carol White,IT,2026-02-21,2026-03-07,,Overdue,High,True,4,5
+TASK0401,Product Launch,James Anderson,Sales,2026-03-05,2026-03-21,,Cancelled,Critical,False,0,10
+TASK0402,Code Review,Alice Johnson,Finance,2025-04-15,2025-05-14,,Cancelled,Medium,False,0,2
+TASK0403,Budget Review,Carol White,IT,2025-10-04,2025-11-01,,Overdue,Critical,True,12,6
+TASK0404,Vendor Evaluation,Henry Davis,IT,2025-11-29,2025-12-21,2025-12-19,Completed,Medium,False,0,5
+TASK0405,Security Patch,Karen Thomas,Finance,2025-08-18,2025-09-04,2025-09-05,Completed,Low,True,1,8
+TASK0406,Market Analysis,Nathan Clark,Operations,2025-03-20,2025-04-02,2025-04-02,Completed,Medium,False,0,10
+TASK0407,Budget Review,Karen Thomas,Finance,2025-04-07,2025-05-05,,Overdue,Low,True,17,5
+TASK0408,Training Session,James Anderson,Sales,2025-10-06,2025-10-21,2025-10-28,Completed,Low,True,7,4
+TASK0409,Product Launch,Bob Martinez,HR,2025-03-09,2025-03-24,,Cancelled,Medium,False,0,3
+TASK0410,Budget Review,Bob Martinez,HR,2025-07-06,2025-07-21,2025-07-26,Completed,Medium,True,5,4
+TASK0411,Policy Update,Liam Jackson,HR,2025-11-26,2025-12-13,2025-12-14,Completed,High,True,1,1
+TASK0412,Vendor Evaluation,Maria Harris,IT,2025-03-27,2025-04-02,,Cancelled,Medium,False,0,3
+TASK0413,Data Migration,Frank Wilson,Finance,2025-03-10,2025-03-18,2025-03-22,Completed,Medium,True,4,9
+TASK0414,Client Presentation,Bob Martinez,HR,2025-07-18,2025-08-08,2025-08-10,Completed,High,True,2,1
+TASK0415,Vendor Evaluation,Isabella Taylor,Operations,2025-10-04,2025-10-15,2025-10-16,Completed,High,True,1,6
+TASK0416,Risk Assessment,Emma Brown,Sales,2025-04-22,2025-05-04,2025-05-06,Completed,High,True,2,7
+TASK0417,Policy Update,Emma Brown,Sales,2025-08-27,2025-09-04,2025-09-07,Completed,Low,True,3,4
+TASK0418,Stakeholder Report,Carol White,IT,2025-07-09,2025-07-31,2025-07-30,Completed,Medium,False,0,1
+TASK0419,Market Analysis,Bob Martinez,HR,2025-09-28,2025-10-07,2025-10-12,Completed,Low,True,5,8
+TASK0420,Data Migration,Nathan Clark,Operations,2026-02-23,2026-03-24,,In Progress,Medium,False,0,3
+TASK0421,Product Launch,Olivia Lewis,Sales,2025-08-30,2025-09-05,2025-09-10,Completed,Critical,True,5,10
+TASK0422,Risk Assessment,Frank Wilson,Finance,2025-02-16,2025-03-13,2025-03-16,Completed,Low,True,3,1
+TASK0423,Risk Assessment,Emma Brown,Sales,2025-01-09,2025-01-15,,Cancelled,Medium,False,0,3
+TASK0424,Dashboard Setup,David Lee,Operations,2025-08-15,2025-08-19,2025-08-17,Completed,Low,False,0,1
+TASK0425,Market Analysis,Isabella Taylor,Operations,2026-03-14,2026-04-12,2026-04-12,Completed,Low,False,0,5
+TASK0426,System Upgrade,Nathan Clark,Operations,2025-05-06,2025-05-20,2025-05-26,Completed,Low,True,6,6
+TASK0427,Client Presentation,Maria Harris,IT,2025-03-25,2025-04-16,,Cancelled,Medium,False,0,4
+TASK0428,Client Presentation,Emma Brown,Sales,2025-11-18,2025-12-09,2025-12-11,Completed,Critical,True,2,6
+TASK0429,Performance Review,Carol White,IT,2025-06-30,2025-07-12,2025-07-13,Completed,Medium,True,1,6
+TASK0430,Stakeholder Report,Karen Thomas,Finance,2025-01-26,2025-02-13,2025-02-13,Completed,Medium,False,0,2
+TASK0431,Quarterly Report,David Lee,Operations,2025-09-12,2025-09-28,2025-10-01,Completed,Low,True,3,8
+TASK0432,System Upgrade,Bob Martinez,HR,2025-05-14,2025-06-07,,Overdue,High,True,18,4
+TASK0433,Security Patch,Olivia Lewis,Sales,2025-11-05,2025-12-04,,In Progress,Medium,False,0,5
+TASK0434,Policy Update,Henry Davis,IT,2025-08-28,2025-09-21,2025-09-20,Completed,High,False,0,4
+TASK0435,Contract Negotiation,Grace Chen,HR,2025-04-30,2025-05-09,,Cancelled,Critical,False,0,7
+TASK0436,Data Migration,Alice Johnson,Finance,2026-01-07,2026-01-10,2026-01-11,Completed,High,True,1,4
+TASK0437,Performance Review,Emma Brown,Sales,2026-03-18,2026-03-30,2026-03-31,Completed,High,True,1,5
+TASK0438,Client Presentation,Emma Brown,Sales,2025-05-12,2025-06-04,2025-06-07,Completed,Critical,True,3,3
+TASK0439,Product Launch,Olivia Lewis,Sales,2026-02-24,2026-03-07,2026-03-05,Completed,Low,False,0,8
+TASK0440,Stakeholder Report,Liam Jackson,HR,2025-03-18,2025-04-01,,Overdue,Medium,True,3,5
+TASK0441,Code Review,Liam Jackson,HR,2025-08-10,2025-08-15,2025-08-22,Completed,Low,True,7,1
+TASK0442,Vendor Evaluation,Olivia Lewis,Sales,2025-03-02,2025-03-05,2025-03-09,Completed,Medium,True,4,3
+TASK0443,Stakeholder Report,Liam Jackson,HR,2025-06-06,2025-06-11,,In Progress,Medium,False,0,6
+TASK0444,Vendor Evaluation,Liam Jackson,HR,2025-07-21,2025-08-05,2025-08-05,Completed,Medium,False,0,3
+TASK0445,Team Meeting,Olivia Lewis,Sales,2025-05-02,2025-05-28,,Overdue,Medium,True,17,4
+TASK0446,Budget Review,Nathan Clark,Operations,2025-07-07,2025-07-22,2025-07-22,Completed,High,False,0,5
+TASK0447,Contract Negotiation,Frank Wilson,Finance,2025-09-12,2025-09-29,2025-10-01,Completed,High,True,2,6
+TASK0448,Quarterly Report,Henry Davis,IT,2025-12-20,2026-01-05,,Cancelled,High,False,0,9
+TASK0449,Product Launch,Olivia Lewis,Sales,2025-09-09,2025-09-16,2025-09-16,Completed,Low,False,0,10
+TASK0450,Code Review,Maria Harris,IT,2026-02-28,2026-03-06,2026-03-07,Completed,Medium,True,1,2
+TASK0451,Training Session,Isabella Taylor,Operations,2025-03-23,2025-04-17,2025-04-15,Completed,Medium,False,0,4
+TASK0452,Vendor Evaluation,Bob Martinez,HR,2025-06-20,2025-06-26,2025-06-27,Completed,Medium,True,1,1
+TASK0453,Compliance Audit,Olivia Lewis,Sales,2025-02-24,2025-03-14,2025-03-15,Completed,Low,True,1,3
+TASK0454,System Upgrade,Karen Thomas,Finance,2025-11-21,2025-12-20,2025-12-25,Completed,Medium,True,5,8
+TASK0455,Code Review,Grace Chen,HR,2026-02-19,2026-02-24,2026-03-02,Completed,Low,True,6,8
+TASK0456,Compliance Audit,Bob Martinez,HR,2025-05-27,2025-06-08,,Cancelled,Low,False,0,4
+TASK0457,Training Session,Karen Thomas,Finance,2026-02-09,2026-03-07,2026-03-07,Completed,Medium,False,0,5
+TASK0458,System Upgrade,Henry Davis,IT,2025-10-22,2025-10-27,2025-10-28,Completed,Critical,True,1,8
+TASK0459,Stakeholder Report,Isabella Taylor,Operations,2025-12-03,2025-12-16,,Cancelled,Critical,False,0,7
+TASK0460,Performance Review,Nathan Clark,Operations,2026-01-27,2026-02-13,2026-02-15,Completed,High,True,2,10
+TASK0461,Data Migration,Emma Brown,Sales,2025-10-27,2025-11-09,2025-11-08,Completed,Critical,False,0,6
+TASK0462,Performance Review,Carol White,IT,2025-04-21,2025-05-03,,In Progress,High,False,0,4
+TASK0463,Data Migration,Karen Thomas,Finance,2025-09-22,2025-10-02,2025-10-09,Completed,Medium,True,7,6
+TASK0464,Performance Review,Emma Brown,Sales,2025-01-27,2025-02-18,,Overdue,Low,True,9,6
+TASK0465,Quarterly Report,Olivia Lewis,Sales,2025-02-11,2025-02-25,2025-02-28,Completed,Low,True,3,7
+TASK0466,Budget Review,Alice Johnson,Finance,2025-11-22,2025-12-17,2025-12-23,Completed,Medium,True,6,2
+TASK0467,Training Session,Isabella Taylor,Operations,2026-01-15,2026-02-01,,Overdue,Medium,True,17,7
+TASK0468,Team Meeting,Alice Johnson,Finance,2026-01-23,2026-02-15,2026-02-19,Completed,Medium,True,4,1
+TASK0469,Security Patch,Henry Davis,IT,2025-11-13,2025-11-24,2025-11-24,Completed,High,False,0,5
+TASK0470,Budget Review,Karen Thomas,Finance,2025-03-31,2025-04-10,,Overdue,Low,True,6,1
+TASK0471,Client Presentation,Carol White,IT,2025-05-19,2025-06-07,,In Progress,Medium,False,0,10
+TASK0472,Quarterly Report,Emma Brown,Sales,2026-02-09,2026-02-12,,In Progress,Critical,False,0,7
+TASK0473,Client Presentation,Olivia Lewis,Sales,2025-08-01,2025-08-10,,Overdue,Low,True,10,8
+TASK0474,Training Session,Nathan Clark,Operations,2025-07-14,2025-07-24,2025-07-27,Completed,High,True,3,5
+TASK0475,Performance Review,James Anderson,Sales,2025-06-23,2025-06-26,2025-06-25,Completed,Low,False,0,9
+TASK0476,System Upgrade,Liam Jackson,HR,2025-12-10,2026-01-04,2026-01-06,Completed,High,True,2,4
+TASK0477,Quarterly Report,James Anderson,Sales,2025-07-01,2025-07-24,2025-07-22,Completed,Critical,False,0,10
+TASK0478,System Upgrade,Emma Brown,Sales,2025-03-31,2025-04-06,2025-04-09,Completed,Low,True,3,3
+TASK0479,Compliance Audit,Grace Chen,HR,2026-01-08,2026-01-19,2026-01-18,Completed,Medium,False,0,5
+TASK0480,Policy Update,Liam Jackson,HR,2025-06-16,2025-07-04,,Overdue,Medium,True,11,5
+TASK0481,Product Launch,James Anderson,Sales,2025-11-24,2025-12-22,2025-12-22,Completed,High,False,0,1
+TASK0482,Security Patch,Alice Johnson,Finance,2026-01-11,2026-01-16,,Overdue,Critical,True,2,8
+TASK0483,Security Patch,Emma Brown,Sales,2025-04-16,2025-05-01,,Overdue,Critical,True,11,1
+TASK0484,Quarterly Report,Liam Jackson,HR,2025-08-14,2025-09-10,2025-09-17,Completed,Medium,True,7,5
+TASK0485,Data Migration,Grace Chen,HR,2025-08-03,2025-08-08,2025-08-14,Completed,Low,True,6,2
+TASK0486,Policy Update,Bob Martinez,HR,2025-07-08,2025-07-12,2025-07-13,Completed,Medium,True,1,7
+TASK0487,Vendor Evaluation,Frank Wilson,Finance,2025-05-18,2025-06-10,2025-06-10,Completed,Medium,False,0,6
+TASK0488,Client Presentation,Maria Harris,IT,2025-09-28,2025-10-16,,Overdue,High,True,3,4
+TASK0489,Process Improvement,Grace Chen,HR,2025-03-09,2025-03-27,2025-03-25,Completed,Low,False,0,7
+TASK0490,Data Migration,Bob Martinez,HR,2025-01-21,2025-02-02,,Cancelled,Medium,False,0,1
+TASK0491,Dashboard Setup,Liam Jackson,HR,2026-01-15,2026-01-27,,In Progress,Critical,False,0,4
+TASK0492,Market Analysis,Isabella Taylor,Operations,2025-04-26,2025-05-09,,Cancelled,Medium,False,0,1
+TASK0493,Training Session,Carol White,IT,2025-04-10,2025-05-04,,In Progress,High,False,0,7
+TASK0494,Client Presentation,Karen Thomas,Finance,2025-04-22,2025-05-09,,Overdue,Low,True,11,8
+TASK0495,Product Launch,Liam Jackson,HR,2025-11-03,2025-11-30,,Cancelled,High,False,0,3
+TASK0496,Risk Assessment,Olivia Lewis,Sales,2025-06-06,2025-06-11,2025-06-12,Completed,Medium,True,1,10
+TASK0497,Code Review,David Lee,Operations,2025-12-10,2025-12-16,2025-12-14,Completed,Medium,False,0,9
+TASK0498,Code Review,Carol White,IT,2026-02-22,2026-03-16,2026-03-15,Completed,Medium,False,0,2
+TASK0499,Dashboard Setup,Bob Martinez,HR,2025-01-27,2025-02-21,,In Progress,Medium,False,0,3
+TASK0500,Code Review,Nathan Clark,Operations,2025-11-10,2025-11-18,2025-11-25,Completed,Medium,True,7,8
+TASK0501,Vendor Evaluation,Alice Johnson,Finance,2025-12-07,2025-12-20,2025-12-27,Completed,Medium,True,7,6
+TASK0502,Compliance Audit,Henry Davis,IT,2025-08-05,2025-08-30,2025-09-02,Completed,High,True,3,2
+TASK0503,Dashboard Setup,Alice Johnson,Finance,2025-09-21,2025-10-03,,In Progress,Medium,False,0,1
+TASK0504,Dashboard Setup,James Anderson,Sales,2025-12-26,2026-01-14,,In Progress,Medium,False,0,3
+TASK0505,System Upgrade,Olivia Lewis,Sales,2025-05-03,2025-05-28,2025-05-31,Completed,Medium,True,3,6
+TASK0506,Performance Review,Olivia Lewis,Sales,2025-09-24,2025-10-01,2025-10-01,Completed,Medium,False,0,9
+TASK0507,Market Analysis,Alice Johnson,Finance,2025-09-24,2025-10-04,,In Progress,Low,False,0,8
+TASK0508,Security Patch,Frank Wilson,Finance,2025-06-16,2025-07-03,,Overdue,Medium,True,6,1
+TASK0509,Team Meeting,Frank Wilson,Finance,2025-03-14,2025-03-27,2025-04-03,Completed,Critical,True,7,4
+TASK0510,System Upgrade,Olivia Lewis,Sales,2025-04-12,2025-04-24,2025-04-22,Completed,Medium,False,0,10
+TASK0511,Policy Update,Maria Harris,IT,2025-09-16,2025-09-21,,Overdue,High,True,18,9
+TASK0512,Budget Review,James Anderson,Sales,2026-03-11,2026-04-07,2026-04-14,Completed,Low,True,7,2
+TASK0513,Client Presentation,Nathan Clark,Operations,2025-12-03,2025-12-28,,In Progress,Medium,False,0,7
+TASK0514,Dashboard Setup,Karen Thomas,Finance,2026-03-04,2026-03-20,,In Progress,Critical,False,0,5
+TASK0515,Code Review,Maria Harris,IT,2025-10-24,2025-11-21,2025-11-19,Completed,High,False,0,6
+TASK0516,Process Improvement,Henry Davis,IT,2026-01-28,2026-02-03,2026-02-03,Completed,Medium,False,0,7
+TASK0517,System Upgrade,Bob Martinez,HR,2025-01-10,2025-01-19,,Overdue,High,True,18,4
+TASK0518,Training Session,Isabella Taylor,Operations,2025-12-30,2026-01-11,2026-01-16,Completed,High,True,5,4
+TASK0519,Code Review,James Anderson,Sales,2025-01-23,2025-02-19,2025-02-26,Completed,Low,True,7,10
+TASK0520,Contract Negotiation,Maria Harris,IT,2025-08-20,2025-09-10,,In Progress,Medium,False,0,7
+TASK0521,Team Meeting,Henry Davis,IT,2025-12-18,2025-12-24,,In Progress,Low,False,0,1
+TASK0522,Product Launch,Frank Wilson,Finance,2025-01-01,2025-01-15,2025-01-18,Completed,Critical,True,3,4
+TASK0523,Performance Review,Frank Wilson,Finance,2025-01-21,2025-02-19,2025-02-21,Completed,High,True,2,9
+TASK0524,Product Launch,Carol White,IT,2025-04-20,2025-05-06,2025-05-05,Completed,High,False,0,6
+TASK0525,Vendor Evaluation,James Anderson,Sales,2026-03-23,2026-03-26,2026-03-26,Completed,Low,False,0,6
+TASK0526,Contract Negotiation,David Lee,Operations,2025-10-04,2025-10-25,2025-10-24,Completed,Medium,False,0,9
+TASK0527,Performance Review,Liam Jackson,HR,2025-08-03,2025-08-07,,In Progress,Medium,False,0,4
+TASK0528,Performance Review,Karen Thomas,Finance,2025-01-08,2025-01-28,,Cancelled,Medium,False,0,1
+TASK0529,Product Launch,Isabella Taylor,Operations,2025-03-13,2025-04-01,,Overdue,Medium,True,5,4
+TASK0530,Code Review,Karen Thomas,Finance,2025-06-21,2025-06-24,2025-06-24,Completed,Low,False,0,2
+TASK0531,Quarterly Report,Maria Harris,IT,2025-09-28,2025-10-13,2025-10-19,Completed,Critical,True,6,4
+TASK0532,Process Improvement,Frank Wilson,Finance,2026-01-20,2026-02-12,2026-02-16,Completed,High,True,4,1
+TASK0533,Data Migration,Nathan Clark,Operations,2025-11-26,2025-12-23,2025-12-25,Completed,Medium,True,2,9
+TASK0534,Market Analysis,Bob Martinez,HR,2025-07-16,2025-07-30,,Cancelled,Medium,False,0,6
+TASK0535,Risk Assessment,Maria Harris,IT,2025-01-15,2025-01-20,,Overdue,Medium,True,3,7
+TASK0536,Budget Review,Grace Chen,HR,2025-06-08,2025-06-19,,In Progress,High,False,0,7
+TASK0537,Dashboard Setup,Nathan Clark,Operations,2025-02-08,2025-02-18,2025-02-17,Completed,Low,False,0,4
+TASK0538,Policy Update,Henry Davis,IT,2026-02-16,2026-03-15,,Overdue,High,True,7,6
+TASK0539,Code Review,Nathan Clark,Operations,2026-02-10,2026-02-28,2026-02-27,Completed,Low,False,0,6
+TASK0540,Data Migration,Grace Chen,HR,2025-10-29,2025-11-07,2025-11-14,Completed,Medium,True,7,1
+TASK0541,Contract Negotiation,Bob Martinez,HR,2025-11-11,2025-11-28,,Overdue,Medium,True,4,6
+TASK0542,Policy Update,Grace Chen,HR,2025-06-19,2025-06-27,2025-07-02,Completed,Medium,True,5,3
+TASK0543,Stakeholder Report,Karen Thomas,Finance,2025-04-30,2025-05-10,,In Progress,Medium,False,0,3
+TASK0544,Quarterly Report,Maria Harris,IT,2025-10-27,2025-11-03,,Overdue,Medium,True,17,9
+TASK0545,Performance Review,Bob Martinez,HR,2025-12-02,2025-12-06,,Overdue,Medium,True,9,10
+TASK0546,Product Launch,Nathan Clark,Operations,2025-02-17,2025-03-12,,In Progress,High,False,0,10
+TASK0547,Performance Review,David Lee,Operations,2025-09-12,2025-09-21,2025-09-20,Completed,Low,False,0,10
+TASK0548,Budget Review,Henry Davis,IT,2025-11-29,2025-12-17,,Overdue,Low,True,8,7
+TASK0549,Performance Review,Henry Davis,IT,2025-08-13,2025-08-28,2025-08-29,Completed,Medium,True,1,3
+TASK0550,Policy Update,Isabella Taylor,Operations,2025-11-09,2025-12-02,2025-11-30,Completed,Medium,False,0,8

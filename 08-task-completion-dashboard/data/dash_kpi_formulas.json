@@ -1,0 +1,1 @@
+[["=COUNTIF(TaskData[status],\"Completed\")/COUNTA(TaskData[status])","","=COUNTIF(TaskData[is_overdue],\"True\")","","=AVERAGEIF(TaskData[days_overdue],\">\"&0)","","=COUNTIFS(TaskData[status],\"Completed\",TaskData[is_overdue],\"False\")/COUNTA(TaskData[status])"]]
