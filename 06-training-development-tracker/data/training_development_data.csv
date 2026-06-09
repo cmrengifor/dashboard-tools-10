@@ -1,0 +1,410 @@
+record_id,employee_name,department,training_name,training_type,start_date,completion_date,training_hours,certified,score,status
+1,Alice Johnson,Finance,Code of Conduct,Compliance,2025-07-17,,7.4,False,,In Progress
+2,Alice Johnson,Finance,First Aid,Safety,2026-03-16,,8.6,False,,Not Started
+3,Alice Johnson,Finance,Health Regulations,Compliance,2025-07-22,,27.2,False,42.9,Failed
+4,Alice Johnson,Finance,Conflict Resolution,Soft Skills,2025-04-13,2025-04-21,33.8,True,90.3,Completed
+5,Alice Johnson,Finance,Coaching Skills,Leadership,2025-06-09,,32.0,False,,Not Started
+6,Alice Johnson,Finance,Hazard Identification,Safety,2025-03-29,2025-04-17,9.6,True,89.8,Completed
+7,Alice Johnson,Finance,Change Management,Leadership,2026-03-12,2026-04-02,20.9,False,65.2,Completed
+8,Alice Johnson,Finance,Team Collaboration,Soft Skills,2025-08-03,,19.7,False,,In Progress
+9,Alice Johnson,Finance,Communication Skills,Soft Skills,2026-01-10,2026-02-09,34.0,True,75.5,Completed
+10,Alice Johnson,Finance,Health Regulations,Compliance,2025-05-10,2025-05-24,11.2,False,91.5,Completed
+11,Alice Johnson,Finance,Health Regulations,Compliance,2025-10-27,,20.5,False,,Not Started
+12,Alice Johnson,Finance,Code of Conduct,Compliance,2025-09-13,2025-09-19,28.1,True,82.6,Completed
+13,Alice Johnson,Finance,Python for Analysts,Technical,2025-12-11,,24.1,False,,In Progress
+14,Alice Johnson,Finance,Health Regulations,Compliance,2025-05-17,2025-06-15,11.7,True,94.1,Completed
+15,Alice Johnson,Finance,Python for Analysts,Technical,2025-04-16,2025-05-23,14.6,True,82.3,Completed
+16,Alice Johnson,Finance,Power BI Fundamentals,Technical,2025-12-19,2026-02-01,33.3,False,60.9,Completed
+17,Alice Johnson,Finance,Data Privacy GDPR,Compliance,2025-02-10,2025-03-17,9.8,True,66.1,Completed
+18,Alice Johnson,Finance,Anti-Corruption Policy,Compliance,2025-11-10,2025-12-04,14.9,True,74.5,Completed
+19,Bob Martinez,HR,Fire Safety,Safety,2025-06-04,,36.7,False,37.7,Failed
+20,Bob Martinez,HR,Health Regulations,Compliance,2025-04-29,,20.2,False,,In Progress
+21,Bob Martinez,HR,Anti-Corruption Policy,Compliance,2025-02-05,,20.4,False,38.9,Failed
+22,Bob Martinez,HR,First Aid,Safety,2025-09-04,,31.3,False,,Not Started
+23,Bob Martinez,HR,Coaching Skills,Leadership,2025-10-26,,25.0,False,,In Progress
+24,Bob Martinez,HR,Power BI Fundamentals,Technical,2025-10-10,2025-10-18,5.5,True,73.2,Completed
+25,Bob Martinez,HR,Data Privacy GDPR,Compliance,2025-11-01,,10.1,False,,In Progress
+26,Bob Martinez,HR,Presentation Skills,Soft Skills,2026-03-22,2026-04-19,25.3,False,98.3,Completed
+27,Bob Martinez,HR,Change Management,Leadership,2025-07-30,2025-09-04,21.5,True,97.5,Completed
+28,Bob Martinez,HR,Power BI Fundamentals,Technical,2025-09-02,2025-09-25,15.9,True,77.6,Completed
+29,Bob Martinez,HR,Communication Skills,Soft Skills,2025-06-13,,9.0,False,,Not Started
+30,Bob Martinez,HR,Team Collaboration,Soft Skills,2025-05-23,,14.1,False,,In Progress
+31,Bob Martinez,HR,Team Collaboration,Soft Skills,2025-11-25,,7.9,False,,Not Started
+32,Bob Martinez,HR,Health Regulations,Compliance,2026-03-15,2026-03-29,24.0,True,93.2,Completed
+33,Bob Martinez,HR,Strategic Thinking,Leadership,2026-03-10,,14.5,False,37.4,Failed
+34,Bob Martinez,HR,Hazard Identification,Safety,2025-03-23,2025-04-03,19.7,True,95.7,Completed
+35,Bob Martinez,HR,Power BI Fundamentals,Technical,2026-01-16,,22.7,False,,Not Started
+36,Bob Martinez,HR,Change Management,Leadership,2025-01-10,,17.5,False,,In Progress
+37,Bob Martinez,HR,Fire Safety,Safety,2025-11-28,2026-01-01,37.7,False,64.9,Completed
+38,Bob Martinez,HR,SQL Basics,Technical,2026-02-06,2026-02-17,25.6,True,67.9,Completed
+39,Carol White,IT,Presentation Skills,Soft Skills,2025-12-16,2026-01-02,9.2,False,69.2,Completed
+40,Carol White,IT,Workplace Ergonomics,Safety,2025-03-01,2025-03-06,22.2,True,83.2,Completed
+41,Carol White,IT,Anti-Corruption Policy,Compliance,2025-03-31,,30.6,False,,In Progress
+42,Carol White,IT,Hazard Identification,Safety,2025-02-28,,18.3,False,44.2,Failed
+43,Carol White,IT,Power BI Fundamentals,Technical,2025-10-26,2025-11-12,37.3,False,82.2,Completed
+44,Carol White,IT,Fire Safety,Safety,2025-10-13,2025-11-20,19.1,True,83.8,Completed
+45,Carol White,IT,Python for Analysts,Technical,2026-02-24,2026-03-30,32.3,False,64.4,Completed
+46,Carol White,IT,Workplace Ergonomics,Safety,2026-01-09,2026-01-24,23.1,True,94.7,Completed
+47,Carol White,IT,Health Regulations,Compliance,2025-09-29,2025-10-15,19.3,True,94.7,Completed
+48,Carol White,IT,Change Management,Leadership,2025-07-24,2025-08-19,30.9,True,64.2,Completed
+49,Carol White,IT,Presentation Skills,Soft Skills,2025-01-30,2025-02-23,33.7,True,65.8,Completed
+50,Carol White,IT,Strategic Thinking,Leadership,2026-02-19,2026-03-19,9.5,False,60.8,Completed
+51,Carol White,IT,Power BI Fundamentals,Technical,2025-01-25,2025-02-06,25.3,True,75.7,Completed
+52,Carol White,IT,SQL Basics,Technical,2025-05-24,,34.6,False,,Not Started
+53,Carol White,IT,Coaching Skills,Leadership,2025-01-20,2025-02-13,13.0,True,76.7,Completed
+54,Carol White,IT,Excel Advanced,Technical,2025-01-23,2025-01-28,7.7,True,62.1,Completed
+55,Carol White,IT,Conflict Resolution,Soft Skills,2026-02-21,,36.5,False,,Not Started
+56,Carol White,IT,Python for Analysts,Technical,2026-03-17,,27.1,False,,Not Started
+57,Carol White,IT,First Aid,Safety,2025-12-17,2026-01-20,22.5,True,78.5,Completed
+58,David Lee,Operations,Anti-Corruption Policy,Compliance,2025-11-05,2025-12-05,9.0,True,76.7,Completed
+59,David Lee,Operations,Data Privacy GDPR,Compliance,2025-06-02,2025-06-21,15.8,True,87.4,Completed
+60,David Lee,Operations,Conflict Resolution,Soft Skills,2025-12-23,,21.3,False,45.5,Failed
+61,David Lee,Operations,Hazard Identification,Safety,2025-08-09,,23.2,False,,Not Started
+62,David Lee,Operations,Code of Conduct,Compliance,2025-02-02,,11.3,False,,In Progress
+63,David Lee,Operations,Coaching Skills,Leadership,2025-08-15,2025-09-23,26.1,False,89.0,Completed
+64,David Lee,Operations,Leadership Essentials,Leadership,2025-08-24,2025-10-05,38.5,True,83.7,Completed
+65,David Lee,Operations,Strategic Thinking,Leadership,2026-03-25,,13.1,False,32.8,Failed
+66,David Lee,Operations,Coaching Skills,Leadership,2025-03-17,,24.6,False,,In Progress
+67,David Lee,Operations,Change Management,Leadership,2025-11-02,,32.8,False,,Not Started
+68,David Lee,Operations,Change Management,Leadership,2025-04-17,,8.3,False,32.5,Failed
+69,David Lee,Operations,Coaching Skills,Leadership,2025-11-24,,28.2,False,,Not Started
+70,David Lee,Operations,Anti-Corruption Policy,Compliance,2025-11-29,,13.7,False,,Not Started
+71,David Lee,Operations,Anti-Corruption Policy,Compliance,2025-08-28,2025-09-14,9.3,True,77.5,Completed
+72,David Lee,Operations,Anti-Corruption Policy,Compliance,2025-02-27,,37.7,False,,In Progress
+73,David Lee,Operations,Presentation Skills,Soft Skills,2025-10-03,2025-10-27,39.5,True,98.0,Completed
+74,David Lee,Operations,Leadership Essentials,Leadership,2025-05-02,,8.4,False,,In Progress
+75,David Lee,Operations,Coaching Skills,Leadership,2025-01-15,2025-02-16,20.4,True,71.8,Completed
+76,Emma Brown,Sales,Change Management,Leadership,2025-07-19,,32.1,False,58.9,Failed
+77,Emma Brown,Sales,Communication Skills,Soft Skills,2026-01-31,,7.8,False,,Not Started
+78,Emma Brown,Sales,Team Collaboration,Soft Skills,2026-03-26,,7.3,False,,In Progress
+79,Emma Brown,Sales,Code of Conduct,Compliance,2026-02-08,2026-03-19,9.1,True,67.9,Completed
+80,Emma Brown,Sales,Python for Analysts,Technical,2026-02-14,2026-03-02,4.2,False,84.2,Completed
+81,Emma Brown,Sales,Health Regulations,Compliance,2025-12-27,,6.1,False,,Not Started
+82,Emma Brown,Sales,Team Collaboration,Soft Skills,2025-12-27,,29.1,False,,Not Started
+83,Emma Brown,Sales,Hazard Identification,Safety,2026-01-13,2026-02-04,8.5,True,89.8,Completed
+84,Emma Brown,Sales,Power BI Fundamentals,Technical,2025-10-11,2025-10-19,30.4,False,70.8,Completed
+85,Emma Brown,Sales,Fire Safety,Safety,2025-11-16,,6.0,False,,In Progress
+86,Emma Brown,Sales,Fire Safety,Safety,2025-10-05,,29.5,False,,Not Started
+87,Emma Brown,Sales,Excel Advanced,Technical,2025-03-19,2025-04-07,39.3,True,91.4,Completed
+88,Emma Brown,Sales,Excel Advanced,Technical,2025-10-14,2025-11-22,38.1,True,83.1,Completed
+89,Emma Brown,Sales,Coaching Skills,Leadership,2025-11-11,,9.3,False,41.7,Failed
+90,Emma Brown,Sales,Health Regulations,Compliance,2025-08-02,2025-08-12,14.0,True,77.1,Completed
+91,Emma Brown,Sales,SQL Basics,Technical,2025-10-02,2025-10-23,18.7,False,83.5,Completed
+92,Emma Brown,Sales,Code of Conduct,Compliance,2025-05-23,2025-07-03,21.1,False,82.9,Completed
+93,Emma Brown,Sales,Excel Advanced,Technical,2025-09-12,,27.5,False,,In Progress
+94,Emma Brown,Sales,Code of Conduct,Compliance,2025-05-23,2025-06-06,19.5,True,74.4,Completed
+95,Emma Brown,Sales,Health Regulations,Compliance,2025-08-19,,37.2,False,,Not Started
+96,Emma Brown,Sales,Health Regulations,Compliance,2025-08-15,,15.3,False,,Not Started
+97,Emma Brown,Sales,Coaching Skills,Leadership,2026-01-12,2026-02-01,6.6,True,62.2,Completed
+98,Emma Brown,Sales,Leadership Essentials,Leadership,2025-05-07,2025-06-03,15.3,True,60.6,Completed
+99,Frank Wilson,Finance,Strategic Thinking,Leadership,2025-11-14,2025-12-23,9.5,True,64.8,Completed
+100,Frank Wilson,Finance,Change Management,Leadership,2025-08-14,,31.8,False,49.9,Failed
+101,Frank Wilson,Finance,Power BI Fundamentals,Technical,2025-12-05,,4.4,False,,In Progress
+102,Frank Wilson,Finance,Data Privacy GDPR,Compliance,2025-12-07,2026-01-02,10.0,True,99.6,Completed
+103,Frank Wilson,Finance,First Aid,Safety,2025-04-01,,9.1,False,41.4,Failed
+104,Frank Wilson,Finance,Communication Skills,Soft Skills,2026-01-11,2026-02-15,20.9,False,67.2,Completed
+105,Frank Wilson,Finance,Presentation Skills,Soft Skills,2026-02-28,2026-03-06,14.5,True,83.5,Completed
+106,Frank Wilson,Finance,Anti-Corruption Policy,Compliance,2025-01-07,2025-01-15,34.4,True,86.0,Completed
+107,Frank Wilson,Finance,Coaching Skills,Leadership,2025-12-24,2026-01-28,17.2,True,73.5,Completed
+108,Frank Wilson,Finance,Hazard Identification,Safety,2025-05-29,,34.7,False,,Not Started
+109,Frank Wilson,Finance,Team Collaboration,Soft Skills,2025-07-13,,34.6,False,,In Progress
+110,Frank Wilson,Finance,Conflict Resolution,Soft Skills,2025-09-20,2025-10-14,7.8,True,96.7,Completed
+111,Frank Wilson,Finance,Code of Conduct,Compliance,2025-06-26,2025-07-08,10.9,False,97.1,Completed
+112,Frank Wilson,Finance,Anti-Corruption Policy,Compliance,2025-07-09,,4.3,False,,In Progress
+113,Frank Wilson,Finance,Change Management,Leadership,2025-03-18,,39.3,False,,In Progress
+114,Frank Wilson,Finance,First Aid,Safety,2026-01-31,,36.5,False,,Not Started
+115,Frank Wilson,Finance,Coaching Skills,Leadership,2025-05-09,,35.2,False,,Not Started
+116,Frank Wilson,Finance,Python for Analysts,Technical,2025-08-17,2025-09-20,23.9,True,98.8,Completed
+117,Frank Wilson,Finance,SQL Basics,Technical,2025-03-11,,31.0,False,,In Progress
+118,Frank Wilson,Finance,Anti-Corruption Policy,Compliance,2025-01-03,2025-01-12,32.0,True,99.4,Completed
+119,Grace Chen,HR,Change Management,Leadership,2026-03-17,,7.1,False,,Not Started
+120,Grace Chen,HR,Leadership Essentials,Leadership,2025-09-07,,33.6,False,40.8,Failed
+121,Grace Chen,HR,Hazard Identification,Safety,2025-01-22,,29.7,False,,In Progress
+122,Grace Chen,HR,Power BI Fundamentals,Technical,2025-12-15,,32.8,False,,In Progress
+123,Grace Chen,HR,Workplace Ergonomics,Safety,2025-01-23,,34.9,False,,In Progress
+124,Grace Chen,HR,Conflict Resolution,Soft Skills,2025-01-03,,5.1,False,,In Progress
+125,Grace Chen,HR,Strategic Thinking,Leadership,2025-06-30,,12.6,False,,In Progress
+126,Grace Chen,HR,Workplace Ergonomics,Safety,2026-01-19,,14.8,False,,Not Started
+127,Grace Chen,HR,Team Collaboration,Soft Skills,2025-09-23,2025-10-15,35.9,False,63.4,Completed
+128,Grace Chen,HR,Team Collaboration,Soft Skills,2025-06-03,,40.0,False,,Not Started
+129,Grace Chen,HR,Code of Conduct,Compliance,2025-05-14,2025-06-19,24.7,True,88.0,Completed
+130,Grace Chen,HR,Coaching Skills,Leadership,2025-09-25,,21.9,False,40.6,Failed
+131,Grace Chen,HR,Communication Skills,Soft Skills,2025-01-31,2025-02-19,20.3,True,73.7,Completed
+132,Grace Chen,HR,Conflict Resolution,Soft Skills,2025-07-09,,23.5,False,,Not Started
+133,Grace Chen,HR,Hazard Identification,Safety,2025-05-09,2025-05-27,15.7,True,81.2,Completed
+134,Grace Chen,HR,Hazard Identification,Safety,2025-12-01,,14.8,False,,In Progress
+135,Grace Chen,HR,Strategic Thinking,Leadership,2025-04-19,2025-05-05,35.5,True,82.5,Completed
+136,Grace Chen,HR,Conflict Resolution,Soft Skills,2025-12-23,2026-01-20,21.1,True,87.0,Completed
+137,Grace Chen,HR,Anti-Corruption Policy,Compliance,2026-01-02,,10.7,False,,Not Started
+138,Grace Chen,HR,Fire Safety,Safety,2025-09-10,,38.4,False,,In Progress
+139,Grace Chen,HR,SQL Basics,Technical,2025-08-19,2025-09-30,38.6,False,61.6,Completed
+140,Grace Chen,HR,Leadership Essentials,Leadership,2025-04-21,2025-05-18,22.6,True,62.0,Completed
+141,Grace Chen,HR,SQL Basics,Technical,2025-02-20,2025-03-22,29.1,False,72.1,Completed
+142,Henry Davis,IT,Change Management,Leadership,2025-04-14,2025-05-05,8.0,True,60.0,Completed
+143,Henry Davis,IT,Power BI Fundamentals,Technical,2025-05-04,2025-05-28,19.5,True,93.6,Completed
+144,Henry Davis,IT,Change Management,Leadership,2025-04-14,2025-05-01,21.3,True,69.1,Completed
+145,Henry Davis,IT,Anti-Corruption Policy,Compliance,2025-04-22,2025-06-03,20.6,True,66.0,Completed
+146,Henry Davis,IT,Data Privacy GDPR,Compliance,2025-05-24,,4.3,False,30.9,Failed
+147,Henry Davis,IT,Python for Analysts,Technical,2025-11-14,2025-12-13,24.5,True,94.0,Completed
+148,Henry Davis,IT,Leadership Essentials,Leadership,2025-05-07,,9.9,False,,In Progress
+149,Henry Davis,IT,Hazard Identification,Safety,2026-03-24,2026-05-02,37.1,True,84.1,Completed
+150,Henry Davis,IT,Hazard Identification,Safety,2025-02-05,,15.5,False,,Not Started
+151,Henry Davis,IT,Strategic Thinking,Leadership,2025-02-20,2025-03-21,18.9,True,63.1,Completed
+152,Henry Davis,IT,Fire Safety,Safety,2025-11-28,2025-12-16,10.0,True,88.3,Completed
+153,Henry Davis,IT,Team Collaboration,Soft Skills,2026-01-07,,25.4,False,,Not Started
+154,Henry Davis,IT,Communication Skills,Soft Skills,2025-12-16,,10.2,False,,In Progress
+155,Henry Davis,IT,Code of Conduct,Compliance,2025-02-24,2025-04-09,4.6,True,83.4,Completed
+156,Henry Davis,IT,Communication Skills,Soft Skills,2025-09-15,,23.3,False,,Not Started
+157,Henry Davis,IT,Power BI Fundamentals,Technical,2025-03-24,2025-04-08,25.4,True,86.5,Completed
+158,Henry Davis,IT,Hazard Identification,Safety,2025-03-27,,12.3,False,,In Progress
+159,Henry Davis,IT,Hazard Identification,Safety,2026-01-13,,23.9,False,,In Progress
+160,Henry Davis,IT,Change Management,Leadership,2025-12-05,,24.4,False,,In Progress
+161,Henry Davis,IT,Presentation Skills,Soft Skills,2025-11-19,2026-01-02,22.5,False,91.8,Completed
+162,Isabella Taylor,Operations,Change Management,Leadership,2025-07-03,,18.2,False,,Not Started
+163,Isabella Taylor,Operations,Python for Analysts,Technical,2025-11-04,,10.4,False,54.9,Failed
+164,Isabella Taylor,Operations,SQL Basics,Technical,2026-02-15,2026-03-01,30.4,True,75.2,Completed
+165,Isabella Taylor,Operations,Conflict Resolution,Soft Skills,2025-08-21,,32.2,False,,In Progress
+166,Isabella Taylor,Operations,Health Regulations,Compliance,2025-09-14,,35.2,False,32.9,Failed
+167,Isabella Taylor,Operations,Python for Analysts,Technical,2025-04-02,2025-04-24,39.3,True,88.8,Completed
+168,Isabella Taylor,Operations,Health Regulations,Compliance,2026-02-04,2026-03-06,25.9,True,76.4,Completed
+169,Isabella Taylor,Operations,Communication Skills,Soft Skills,2025-09-28,2025-10-26,11.1,True,75.8,Completed
+170,Isabella Taylor,Operations,Hazard Identification,Safety,2025-02-28,,16.2,False,,In Progress
+171,Isabella Taylor,Operations,Python for Analysts,Technical,2026-03-06,2026-04-09,31.1,True,71.1,Completed
+172,Isabella Taylor,Operations,Conflict Resolution,Soft Skills,2025-04-01,2025-05-15,20.9,True,61.8,Completed
+173,Isabella Taylor,Operations,Python for Analysts,Technical,2025-08-05,,21.8,False,,In Progress
+174,Isabella Taylor,Operations,Hazard Identification,Safety,2025-02-19,2025-03-05,31.5,True,96.1,Completed
+175,Isabella Taylor,Operations,Communication Skills,Soft Skills,2026-03-20,,6.6,False,38.8,Failed
+176,Isabella Taylor,Operations,Fire Safety,Safety,2025-09-06,,26.2,False,,Not Started
+177,Isabella Taylor,Operations,Excel Advanced,Technical,2025-09-02,2025-09-27,9.8,True,83.4,Completed
+178,Isabella Taylor,Operations,Power BI Fundamentals,Technical,2025-11-27,2025-12-31,18.6,True,90.9,Completed
+179,Isabella Taylor,Operations,Communication Skills,Soft Skills,2025-04-04,2025-05-03,36.3,False,70.6,Completed
+180,Isabella Taylor,Operations,Fire Safety,Safety,2026-01-16,2026-02-14,20.2,False,88.4,Completed
+181,Isabella Taylor,Operations,Python for Analysts,Technical,2026-01-19,2026-02-15,23.1,False,69.8,Completed
+182,James Anderson,Sales,Communication Skills,Soft Skills,2025-01-17,,32.0,False,,Not Started
+183,James Anderson,Sales,Team Collaboration,Soft Skills,2025-05-07,2025-05-31,23.3,True,65.3,Completed
+184,James Anderson,Sales,Communication Skills,Soft Skills,2025-03-24,2025-05-06,38.3,False,82.2,Completed
+185,James Anderson,Sales,Fire Safety,Safety,2025-03-15,2025-03-30,8.3,True,72.9,Completed
+186,James Anderson,Sales,First Aid,Safety,2025-02-02,2025-02-25,23.1,False,99.5,Completed
+187,James Anderson,Sales,SQL Basics,Technical,2026-01-03,2026-02-06,9.5,True,73.7,Completed
+188,James Anderson,Sales,Leadership Essentials,Leadership,2026-02-24,,26.4,False,,Not Started
+189,James Anderson,Sales,SQL Basics,Technical,2025-10-14,2025-11-19,37.3,True,85.6,Completed
+190,James Anderson,Sales,Data Privacy GDPR,Compliance,2025-09-06,2025-10-20,6.2,True,65.2,Completed
+191,James Anderson,Sales,Leadership Essentials,Leadership,2025-12-21,2026-01-20,37.2,True,89.0,Completed
+192,James Anderson,Sales,Anti-Corruption Policy,Compliance,2025-05-17,,21.0,False,,In Progress
+193,James Anderson,Sales,Health Regulations,Compliance,2025-08-25,2025-09-12,28.4,True,61.6,Completed
+194,James Anderson,Sales,Workplace Ergonomics,Safety,2025-05-11,,39.7,False,,In Progress
+195,James Anderson,Sales,Coaching Skills,Leadership,2025-12-04,2026-01-04,38.1,True,89.5,Completed
+196,James Anderson,Sales,Conflict Resolution,Soft Skills,2026-02-07,,22.3,False,,In Progress
+197,James Anderson,Sales,Health Regulations,Compliance,2025-05-29,,16.3,False,,In Progress
+198,James Anderson,Sales,Anti-Corruption Policy,Compliance,2025-07-28,2025-08-19,7.3,True,86.2,Completed
+199,James Anderson,Sales,Code of Conduct,Compliance,2025-05-18,2025-05-23,11.1,True,94.4,Completed
+200,James Anderson,Sales,Data Privacy GDPR,Compliance,2026-02-15,2026-03-18,13.9,False,71.3,Completed
+201,James Anderson,Sales,Team Collaboration,Soft Skills,2026-02-16,2026-03-29,23.5,True,98.1,Completed
+202,James Anderson,Sales,Coaching Skills,Leadership,2025-12-02,,15.5,False,,In Progress
+203,James Anderson,Sales,Health Regulations,Compliance,2025-08-22,,4.8,False,,In Progress
+204,James Anderson,Sales,Change Management,Leadership,2025-11-12,,20.0,False,,In Progress
+205,Karen Thomas,Finance,Hazard Identification,Safety,2026-01-20,2026-02-07,21.6,True,73.4,Completed
+206,Karen Thomas,Finance,Presentation Skills,Soft Skills,2025-04-20,,34.4,False,51.6,Failed
+207,Karen Thomas,Finance,Hazard Identification,Safety,2025-12-11,2025-12-25,20.4,False,85.8,Completed
+208,Karen Thomas,Finance,Code of Conduct,Compliance,2025-05-11,,18.8,False,,In Progress
+209,Karen Thomas,Finance,Conflict Resolution,Soft Skills,2025-04-09,,10.0,False,,Not Started
+210,Karen Thomas,Finance,Workplace Ergonomics,Safety,2025-01-04,,34.2,False,,Not Started
+211,Karen Thomas,Finance,Communication Skills,Soft Skills,2025-03-04,2025-04-05,18.0,True,67.7,Completed
+212,Karen Thomas,Finance,Health Regulations,Compliance,2025-03-11,,37.6,False,,In Progress
+213,Karen Thomas,Finance,Change Management,Leadership,2026-03-18,2026-04-17,32.5,True,95.4,Completed
+214,Karen Thomas,Finance,Python for Analysts,Technical,2025-10-26,,10.3,False,,Not Started
+215,Karen Thomas,Finance,Python for Analysts,Technical,2025-07-10,2025-08-04,28.7,True,99.7,Completed
+216,Karen Thomas,Finance,Leadership Essentials,Leadership,2026-03-26,2026-04-01,30.2,True,72.7,Completed
+217,Karen Thomas,Finance,Change Management,Leadership,2025-07-27,2025-08-08,28.2,True,91.5,Completed
+218,Karen Thomas,Finance,Coaching Skills,Leadership,2026-01-10,2026-02-20,15.6,True,92.1,Completed
+219,Karen Thomas,Finance,Fire Safety,Safety,2025-08-10,2025-08-23,35.6,False,66.1,Completed
+220,Karen Thomas,Finance,Workplace Ergonomics,Safety,2025-08-29,2025-09-14,4.0,True,91.0,Completed
+221,Karen Thomas,Finance,Python for Analysts,Technical,2025-01-16,,10.0,False,,Not Started
+222,Karen Thomas,Finance,Data Privacy GDPR,Compliance,2025-03-08,,23.4,False,,Not Started
+223,Karen Thomas,Finance,Workplace Ergonomics,Safety,2026-01-04,2026-01-10,30.6,True,90.1,Completed
+224,Liam Jackson,HR,Team Collaboration,Soft Skills,2025-08-31,2025-10-05,17.2,False,68.3,Completed
+225,Liam Jackson,HR,Health Regulations,Compliance,2026-03-09,2026-03-18,10.3,False,92.9,Completed
+226,Liam Jackson,HR,Excel Advanced,Technical,2025-11-11,2025-12-25,27.5,True,75.7,Completed
+227,Liam Jackson,HR,SQL Basics,Technical,2026-03-05,,10.9,False,,Not Started
+228,Liam Jackson,HR,Data Privacy GDPR,Compliance,2025-08-01,2025-09-01,30.5,True,82.0,Completed
+229,Liam Jackson,HR,Presentation Skills,Soft Skills,2025-06-16,2025-07-19,5.8,True,79.4,Completed
+230,Liam Jackson,HR,Anti-Corruption Policy,Compliance,2025-05-10,,33.8,False,,Not Started
+231,Liam Jackson,HR,Team Collaboration,Soft Skills,2025-03-12,2025-04-01,22.8,True,82.6,Completed
+232,Liam Jackson,HR,Code of Conduct,Compliance,2026-01-15,2026-01-22,11.6,True,85.9,Completed
+233,Liam Jackson,HR,Data Privacy GDPR,Compliance,2026-01-13,2026-02-22,21.1,True,62.4,Completed
+234,Liam Jackson,HR,Communication Skills,Soft Skills,2025-08-02,2025-08-30,28.5,False,64.0,Completed
+235,Liam Jackson,HR,Leadership Essentials,Leadership,2025-02-17,2025-03-10,8.8,True,72.8,Completed
+236,Liam Jackson,HR,Conflict Resolution,Soft Skills,2025-04-20,2025-04-27,13.5,True,68.2,Completed
+237,Liam Jackson,HR,Hazard Identification,Safety,2025-01-15,2025-02-26,7.9,False,84.8,Completed
+238,Liam Jackson,HR,Leadership Essentials,Leadership,2025-03-31,,33.5,False,,Not Started
+239,Liam Jackson,HR,Code of Conduct,Compliance,2025-03-06,2025-04-19,18.4,True,97.9,Completed
+240,Liam Jackson,HR,Power BI Fundamentals,Technical,2026-02-17,2026-03-26,39.2,True,79.7,Completed
+241,Liam Jackson,HR,Presentation Skills,Soft Skills,2026-03-07,2026-03-27,25.1,False,72.8,Completed
+242,Maria Harris,IT,SQL Basics,Technical,2025-02-16,,16.9,False,,In Progress
+243,Maria Harris,IT,First Aid,Safety,2025-07-03,,37.4,False,,In Progress
+244,Maria Harris,IT,Strategic Thinking,Leadership,2026-02-24,2026-03-30,20.2,True,78.5,Completed
+245,Maria Harris,IT,Conflict Resolution,Soft Skills,2025-10-24,2025-11-12,16.4,True,63.8,Completed
+246,Maria Harris,IT,Change Management,Leadership,2025-03-16,2025-04-10,11.7,True,90.2,Completed
+247,Maria Harris,IT,Code of Conduct,Compliance,2025-04-26,,25.5,False,31.5,Failed
+248,Maria Harris,IT,First Aid,Safety,2026-03-02,,24.8,False,31.1,Failed
+249,Maria Harris,IT,Presentation Skills,Soft Skills,2025-11-03,2025-12-14,30.8,True,79.9,Completed
+250,Maria Harris,IT,Leadership Essentials,Leadership,2025-07-29,,15.9,False,,Not Started
+251,Maria Harris,IT,SQL Basics,Technical,2026-01-31,,13.7,False,,In Progress
+252,Maria Harris,IT,Team Collaboration,Soft Skills,2025-03-14,2025-04-05,23.3,True,98.5,Completed
+253,Maria Harris,IT,Health Regulations,Compliance,2026-01-21,,35.6,False,,In Progress
+254,Maria Harris,IT,Power BI Fundamentals,Technical,2025-06-18,,21.3,False,,Not Started
+255,Maria Harris,IT,Python for Analysts,Technical,2025-09-11,,19.3,False,,In Progress
+256,Maria Harris,IT,Hazard Identification,Safety,2025-06-16,2025-06-26,32.6,True,71.4,Completed
+257,Maria Harris,IT,Coaching Skills,Leadership,2025-05-17,2025-06-20,22.7,True,87.6,Completed
+258,Maria Harris,IT,First Aid,Safety,2025-03-15,2025-04-14,26.3,False,78.5,Completed
+259,Maria Harris,IT,Health Regulations,Compliance,2025-08-24,2025-10-05,10.8,True,63.9,Completed
+260,Maria Harris,IT,Team Collaboration,Soft Skills,2026-03-03,,39.1,False,,Not Started
+261,Nathan Clark,Operations,Communication Skills,Soft Skills,2025-09-20,,26.8,False,,Not Started
+262,Nathan Clark,Operations,Conflict Resolution,Soft Skills,2025-03-02,2025-03-24,23.2,True,98.3,Completed
+263,Nathan Clark,Operations,Data Privacy GDPR,Compliance,2025-04-02,2025-05-05,36.5,False,97.4,Completed
+264,Nathan Clark,Operations,Health Regulations,Compliance,2026-02-15,2026-02-24,34.0,False,81.4,Completed
+265,Nathan Clark,Operations,SQL Basics,Technical,2026-01-28,2026-02-24,20.0,False,98.8,Completed
+266,Nathan Clark,Operations,Conflict Resolution,Soft Skills,2025-12-23,2026-01-04,38.7,False,94.7,Completed
+267,Nathan Clark,Operations,Power BI Fundamentals,Technical,2025-09-01,,34.3,False,33.7,Failed
+268,Nathan Clark,Operations,Hazard Identification,Safety,2025-05-16,2025-06-11,36.4,True,88.2,Completed
+269,Nathan Clark,Operations,Anti-Corruption Policy,Compliance,2025-07-25,2025-08-17,17.0,True,63.6,Completed
+270,Nathan Clark,Operations,Data Privacy GDPR,Compliance,2025-09-13,2025-10-19,37.5,True,61.4,Completed
+271,Nathan Clark,Operations,Communication Skills,Soft Skills,2026-01-23,,11.9,False,57.1,Failed
+272,Nathan Clark,Operations,Hazard Identification,Safety,2025-01-19,2025-02-02,9.5,False,67.8,Completed
+273,Nathan Clark,Operations,Power BI Fundamentals,Technical,2025-06-13,2025-07-24,26.5,False,92.0,Completed
+274,Nathan Clark,Operations,First Aid,Safety,2025-10-21,,16.5,False,36.6,Failed
+275,Nathan Clark,Operations,Change Management,Leadership,2025-10-07,2025-11-18,31.7,True,67.3,Completed
+276,Nathan Clark,Operations,Anti-Corruption Policy,Compliance,2025-03-25,,19.7,False,,In Progress
+277,Nathan Clark,Operations,Fire Safety,Safety,2025-12-12,2026-01-14,37.7,False,64.3,Completed
+278,Nathan Clark,Operations,Change Management,Leadership,2025-08-27,2025-09-21,19.7,True,79.5,Completed
+279,Nathan Clark,Operations,Change Management,Leadership,2026-02-19,2026-03-12,25.3,False,85.5,Completed
+280,Nathan Clark,Operations,Data Privacy GDPR,Compliance,2025-09-27,2025-11-10,36.3,True,62.4,Completed
+281,Olivia Lewis,Sales,First Aid,Safety,2025-10-19,2025-11-22,27.0,True,85.2,Completed
+282,Olivia Lewis,Sales,Anti-Corruption Policy,Compliance,2025-06-06,,38.6,False,,In Progress
+283,Olivia Lewis,Sales,Code of Conduct,Compliance,2025-06-16,,22.2,False,,Not Started
+284,Olivia Lewis,Sales,Leadership Essentials,Leadership,2025-11-28,2025-12-22,30.8,False,67.9,Completed
+285,Olivia Lewis,Sales,Change Management,Leadership,2025-10-10,,13.8,False,,Not Started
+286,Olivia Lewis,Sales,Code of Conduct,Compliance,2025-02-19,2025-02-27,11.1,True,81.2,Completed
+287,Olivia Lewis,Sales,Fire Safety,Safety,2026-02-02,,10.3,False,,In Progress
+288,Olivia Lewis,Sales,Health Regulations,Compliance,2025-06-10,2025-07-16,13.8,True,65.1,Completed
+289,Olivia Lewis,Sales,Coaching Skills,Leadership,2025-09-05,2025-10-13,21.3,True,89.9,Completed
+290,Olivia Lewis,Sales,Data Privacy GDPR,Compliance,2026-01-02,,12.7,False,,Not Started
+291,Olivia Lewis,Sales,Change Management,Leadership,2025-06-12,2025-06-24,18.1,False,90.1,Completed
+292,Olivia Lewis,Sales,Python for Analysts,Technical,2025-05-22,2025-06-03,19.8,True,74.8,Completed
+293,Olivia Lewis,Sales,Presentation Skills,Soft Skills,2025-04-17,,21.9,False,55.1,Failed
+294,Olivia Lewis,Sales,Code of Conduct,Compliance,2026-03-26,,36.7,False,,Not Started
+295,Olivia Lewis,Sales,Code of Conduct,Compliance,2025-12-23,2026-01-11,4.6,True,79.8,Completed
+296,Olivia Lewis,Sales,Change Management,Leadership,2025-07-03,,34.1,False,,In Progress
+297,Olivia Lewis,Sales,Strategic Thinking,Leadership,2025-02-18,,34.5,False,,Not Started
+298,Olivia Lewis,Sales,Presentation Skills,Soft Skills,2026-03-24,,15.3,False,,Not Started
+299,Olivia Lewis,Sales,Fire Safety,Safety,2025-06-30,,37.8,False,,In Progress
+300,Olivia Lewis,Sales,Conflict Resolution,Soft Skills,2025-06-05,2025-07-19,10.1,False,62.3,Completed
+301,Olivia Lewis,Sales,Coaching Skills,Leadership,2026-03-04,,28.5,False,,Not Started
+302,Olivia Lewis,Sales,Coaching Skills,Leadership,2025-03-28,,13.5,False,,Not Started
+303,Peter Robinson,Finance,Hazard Identification,Safety,2025-12-13,,33.3,False,,In Progress
+304,Peter Robinson,Finance,Leadership Essentials,Leadership,2026-03-09,,13.5,False,42.5,Failed
+305,Peter Robinson,Finance,Anti-Corruption Policy,Compliance,2025-12-16,,17.6,False,,Not Started
+306,Peter Robinson,Finance,Health Regulations,Compliance,2026-01-14,2026-01-27,24.6,True,61.5,Completed
+307,Peter Robinson,Finance,Communication Skills,Soft Skills,2026-02-08,,7.2,False,,Not Started
+308,Peter Robinson,Finance,Excel Advanced,Technical,2025-06-02,2025-07-06,10.8,False,76.4,Completed
+309,Peter Robinson,Finance,Change Management,Leadership,2025-11-30,,28.9,False,,In Progress
+310,Peter Robinson,Finance,SQL Basics,Technical,2025-03-16,2025-04-06,37.2,False,89.2,Completed
+311,Peter Robinson,Finance,SQL Basics,Technical,2026-03-13,2026-03-21,11.2,False,78.6,Completed
+312,Peter Robinson,Finance,Conflict Resolution,Soft Skills,2025-03-28,,32.9,False,37.9,Failed
+313,Peter Robinson,Finance,Excel Advanced,Technical,2025-05-05,,18.5,False,54.6,Failed
+314,Peter Robinson,Finance,Anti-Corruption Policy,Compliance,2025-04-26,2025-05-02,27.0,True,68.4,Completed
+315,Peter Robinson,Finance,Presentation Skills,Soft Skills,2025-10-04,,12.2,False,,Not Started
+316,Peter Robinson,Finance,Leadership Essentials,Leadership,2026-01-22,2026-03-02,26.3,True,65.1,Completed
+317,Peter Robinson,Finance,SQL Basics,Technical,2025-03-13,,19.9,False,,In Progress
+318,Peter Robinson,Finance,SQL Basics,Technical,2025-03-26,,33.5,False,,In Progress
+319,Peter Robinson,Finance,Power BI Fundamentals,Technical,2025-10-07,2025-10-23,12.6,True,80.2,Completed
+320,Peter Robinson,Finance,Coaching Skills,Leadership,2026-01-21,,36.9,False,,Not Started
+321,Peter Robinson,Finance,Data Privacy GDPR,Compliance,2025-12-15,,22.8,False,,In Progress
+322,Quinn Walker,HR,Excel Advanced,Technical,2025-12-24,,37.0,False,,In Progress
+323,Quinn Walker,HR,Fire Safety,Safety,2026-03-19,,21.1,False,,In Progress
+324,Quinn Walker,HR,Communication Skills,Soft Skills,2026-03-20,2026-04-02,35.5,True,91.5,Completed
+325,Quinn Walker,HR,Power BI Fundamentals,Technical,2025-06-22,,14.8,False,,Not Started
+326,Quinn Walker,HR,Fire Safety,Safety,2025-12-13,,27.7,False,,In Progress
+327,Quinn Walker,HR,Presentation Skills,Soft Skills,2026-01-09,2026-02-20,29.6,True,79.8,Completed
+328,Quinn Walker,HR,Excel Advanced,Technical,2025-01-25,,5.1,False,,Not Started
+329,Quinn Walker,HR,Presentation Skills,Soft Skills,2025-06-28,2025-07-19,31.0,True,94.7,Completed
+330,Quinn Walker,HR,Fire Safety,Safety,2025-12-02,2026-01-05,23.1,True,69.8,Completed
+331,Quinn Walker,HR,Hazard Identification,Safety,2025-04-14,,29.6,False,51.6,Failed
+332,Quinn Walker,HR,SQL Basics,Technical,2025-08-28,2025-09-06,27.1,False,95.5,Completed
+333,Quinn Walker,HR,Strategic Thinking,Leadership,2026-01-01,,9.1,False,,In Progress
+334,Quinn Walker,HR,Conflict Resolution,Soft Skills,2026-03-14,,16.0,False,36.1,Failed
+335,Quinn Walker,HR,Fire Safety,Safety,2025-02-10,2025-02-22,39.6,False,65.3,Completed
+336,Quinn Walker,HR,Power BI Fundamentals,Technical,2026-01-08,,26.7,False,,Not Started
+337,Quinn Walker,HR,Change Management,Leadership,2026-02-01,2026-02-18,29.7,True,73.8,Completed
+338,Quinn Walker,HR,Data Privacy GDPR,Compliance,2025-07-30,,13.4,False,,Not Started
+339,Quinn Walker,HR,Excel Advanced,Technical,2025-03-11,,15.9,False,,Not Started
+340,Quinn Walker,HR,Presentation Skills,Soft Skills,2025-11-05,2025-12-05,31.5,True,68.7,Completed
+341,Quinn Walker,HR,Workplace Ergonomics,Safety,2025-11-07,2025-12-08,24.5,True,82.2,Completed
+342,Quinn Walker,HR,Workplace Ergonomics,Safety,2025-10-07,,8.9,False,,In Progress
+343,Quinn Walker,HR,Anti-Corruption Policy,Compliance,2025-11-09,,6.7,False,,In Progress
+344,Rachel Hall,IT,Anti-Corruption Policy,Compliance,2025-01-24,2025-02-14,12.0,True,89.7,Completed
+345,Rachel Hall,IT,Data Privacy GDPR,Compliance,2026-01-16,2026-02-23,31.4,True,80.0,Completed
+346,Rachel Hall,IT,Power BI Fundamentals,Technical,2025-11-21,2026-01-02,23.0,True,89.5,Completed
+347,Rachel Hall,IT,Python for Analysts,Technical,2025-07-04,2025-07-29,37.2,True,78.7,Completed
+348,Rachel Hall,IT,Hazard Identification,Safety,2025-08-19,2025-09-11,11.8,False,60.0,Completed
+349,Rachel Hall,IT,Anti-Corruption Policy,Compliance,2025-06-14,,5.2,False,,In Progress
+350,Rachel Hall,IT,Team Collaboration,Soft Skills,2026-03-15,,10.0,False,39.5,Failed
+351,Rachel Hall,IT,Team Collaboration,Soft Skills,2025-05-19,,12.3,False,,Not Started
+352,Rachel Hall,IT,Presentation Skills,Soft Skills,2026-03-02,,34.6,False,,Not Started
+353,Rachel Hall,IT,Presentation Skills,Soft Skills,2025-12-30,2026-01-12,13.0,True,83.3,Completed
+354,Rachel Hall,IT,Health Regulations,Compliance,2025-01-04,2025-02-17,27.0,True,97.3,Completed
+355,Rachel Hall,IT,Communication Skills,Soft Skills,2025-06-20,,14.9,False,,Not Started
+356,Rachel Hall,IT,Workplace Ergonomics,Safety,2025-04-19,,36.6,False,37.8,Failed
+357,Rachel Hall,IT,Excel Advanced,Technical,2025-10-14,,22.2,False,,In Progress
+358,Rachel Hall,IT,Coaching Skills,Leadership,2025-07-05,,16.0,False,,In Progress
+359,Rachel Hall,IT,Change Management,Leadership,2025-08-26,2025-09-05,34.6,True,69.1,Completed
+360,Rachel Hall,IT,SQL Basics,Technical,2026-03-20,2026-04-16,15.4,False,86.2,Completed
+361,Rachel Hall,IT,Workplace Ergonomics,Safety,2025-11-06,2025-11-13,24.9,False,94.0,Completed
+362,Rachel Hall,IT,Python for Analysts,Technical,2025-08-22,2025-09-20,19.9,False,92.1,Completed
+363,Rachel Hall,IT,Health Regulations,Compliance,2025-02-26,2025-03-03,36.5,True,66.0,Completed
+364,Rachel Hall,IT,Fire Safety,Safety,2025-12-30,,25.6,False,,In Progress
+365,Rachel Hall,IT,Hazard Identification,Safety,2026-01-28,2026-02-21,21.2,True,69.0,Completed
+366,Samuel Young,Operations,Python for Analysts,Technical,2025-06-08,2025-07-02,19.8,True,84.4,Completed
+367,Samuel Young,Operations,Code of Conduct,Compliance,2025-12-16,,7.7,False,,In Progress
+368,Samuel Young,Operations,Hazard Identification,Safety,2025-08-02,2025-08-31,5.5,False,78.2,Completed
+369,Samuel Young,Operations,Data Privacy GDPR,Compliance,2025-07-06,,37.3,False,,Not Started
+370,Samuel Young,Operations,Excel Advanced,Technical,2025-04-01,2025-04-30,37.3,True,60.5,Completed
+371,Samuel Young,Operations,Hazard Identification,Safety,2025-12-10,,38.9,False,32.3,Failed
+372,Samuel Young,Operations,Fire Safety,Safety,2026-01-18,,19.0,False,,In Progress
+373,Samuel Young,Operations,Code of Conduct,Compliance,2025-09-15,,6.7,False,,In Progress
+374,Samuel Young,Operations,Power BI Fundamentals,Technical,2025-11-25,2025-12-07,22.4,True,98.8,Completed
+375,Samuel Young,Operations,Fire Safety,Safety,2025-11-26,2025-12-01,11.9,True,97.7,Completed
+376,Samuel Young,Operations,Team Collaboration,Soft Skills,2025-11-27,,17.6,False,,Not Started
+377,Samuel Young,Operations,Communication Skills,Soft Skills,2026-01-19,,37.4,False,,In Progress
+378,Samuel Young,Operations,Communication Skills,Soft Skills,2025-04-27,,9.4,False,49.6,Failed
+379,Samuel Young,Operations,Health Regulations,Compliance,2025-06-02,2025-06-19,31.1,True,73.4,Completed
+380,Samuel Young,Operations,Python for Analysts,Technical,2026-01-16,,20.1,False,,Not Started
+381,Samuel Young,Operations,Strategic Thinking,Leadership,2026-03-05,2026-03-20,35.9,True,65.7,Completed
+382,Samuel Young,Operations,Anti-Corruption Policy,Compliance,2025-03-10,2025-03-22,14.3,False,77.6,Completed
+383,Samuel Young,Operations,Code of Conduct,Compliance,2025-07-06,2025-08-01,5.2,True,74.9,Completed
+384,Samuel Young,Operations,Change Management,Leadership,2025-10-21,2025-11-25,12.9,True,75.8,Completed
+385,Samuel Young,Operations,SQL Basics,Technical,2025-12-31,2026-01-05,25.4,False,80.6,Completed
+386,Samuel Young,Operations,Presentation Skills,Soft Skills,2025-06-05,2025-07-14,32.2,True,60.9,Completed
+387,Samuel Young,Operations,Strategic Thinking,Leadership,2025-09-28,2025-10-12,32.4,True,97.2,Completed
+388,Tina King,Sales,Hazard Identification,Safety,2025-11-28,2025-12-04,23.7,False,73.5,Completed
+389,Tina King,Sales,SQL Basics,Technical,2025-03-27,2025-04-01,34.3,True,79.2,Completed
+390,Tina King,Sales,SQL Basics,Technical,2025-05-11,2025-06-03,5.9,True,70.6,Completed
+391,Tina King,Sales,Code of Conduct,Compliance,2025-01-21,2025-01-29,37.5,True,98.8,Completed
+392,Tina King,Sales,Workplace Ergonomics,Safety,2026-02-01,,20.1,False,,Not Started
+393,Tina King,Sales,Excel Advanced,Technical,2025-07-06,2025-08-14,23.1,True,67.5,Completed
+394,Tina King,Sales,Anti-Corruption Policy,Compliance,2025-03-31,2025-04-06,11.2,True,67.3,Completed
+395,Tina King,Sales,Coaching Skills,Leadership,2025-06-17,2025-07-02,16.6,True,78.7,Completed
+396,Tina King,Sales,Anti-Corruption Policy,Compliance,2025-02-15,,11.7,False,,In Progress
+397,Tina King,Sales,SQL Basics,Technical,2025-07-13,2025-07-31,21.8,False,69.5,Completed
+398,Tina King,Sales,Code of Conduct,Compliance,2025-06-04,,37.7,False,,Not Started
+399,Tina King,Sales,Team Collaboration,Soft Skills,2025-03-09,,39.7,False,,In Progress
+400,Tina King,Sales,Change Management,Leadership,2025-08-26,2025-09-06,23.2,False,84.5,Completed
+401,Tina King,Sales,Communication Skills,Soft Skills,2025-02-03,2025-03-17,5.4,False,69.6,Completed
+402,Tina King,Sales,Conflict Resolution,Soft Skills,2026-01-07,2026-01-13,10.9,True,75.4,Completed
+403,Tina King,Sales,Workplace Ergonomics,Safety,2025-06-03,2025-06-21,4.9,False,90.3,Completed
+404,Tina King,Sales,Strategic Thinking,Leadership,2025-06-08,2025-07-20,23.1,True,91.0,Completed
+405,Tina King,Sales,SQL Basics,Technical,2025-11-27,,19.6,False,,Not Started
+406,Tina King,Sales,SQL Basics,Technical,2025-11-18,2025-12-25,37.5,False,99.8,Completed
+407,Tina King,Sales,Strategic Thinking,Leadership,2025-01-17,,5.2,False,,In Progress
+408,Tina King,Sales,Health Regulations,Compliance,2025-11-29,,34.8,False,,In Progress
+409,Tina King,Sales,Communication Skills,Soft Skills,2025-12-05,2025-12-21,5.5,True,70.6,Completed
