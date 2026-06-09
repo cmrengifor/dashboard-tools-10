@@ -1,0 +1,271 @@
+record_id,period,team_member,department,tasks_assigned,tasks_completed,completion_rate_pct,quality_score,efficiency_index,hours_logged,status
+1,2025-01,Alice Chen,Finance,35,24,68.7,88.2,1.76,148.4,Underperforming
+2,2025-01,Bob Martinez,Operations,18,15,87.3,93.9,1.4,165.3,At Risk
+3,2025-01,Carol Smith,Sales,15,10,68.1,68.8,2.58,173.7,Underperforming
+4,2025-01,David Lee,HR,37,31,86.4,80.7,1.71,175.4,At Risk
+5,2025-01,Eva Brown,Technology,40,37,93.7,88.8,1.57,165.4,On Track
+6,2025-01,Frank Wilson,Finance,23,16,70.1,96.4,1.97,145.6,Underperforming
+7,2025-01,Grace Kim,Operations,18,13,76.8,73.1,1.81,142.6,At Risk
+8,2025-01,Henry Davis,Sales,29,23,82.7,97.0,2.07,173.1,At Risk
+9,2025-01,Irene Lopez,HR,41,35,85.7,93.6,2.03,151.5,At Risk
+10,2025-01,James White,Technology,17,11,66.5,68.7,1.87,144.8,Underperforming
+11,2025-01,Karen Taylor,Finance,22,20,93.6,74.4,2.24,190.0,At Risk
+12,2025-01,Liam Johnson,Operations,20,15,77.2,68.0,1.81,196.2,At Risk
+13,2025-01,Mia Anderson,Sales,35,23,67.4,84.1,2.43,154.7,Underperforming
+14,2025-01,Noah Thompson,HR,29,22,77.5,97.6,2.67,173.4,At Risk
+15,2025-01,Olivia Harris,Technology,36,27,75.7,89.2,1.33,189.3,At Risk
+16,2025-02,Alice Chen,Finance,40,30,75.4,70.2,1.69,196.6,At Risk
+17,2025-02,Bob Martinez,Operations,43,38,88.7,68.1,2.35,193.1,At Risk
+18,2025-02,Carol Smith,Sales,35,28,80.1,70.1,1.77,173.7,At Risk
+19,2025-02,David Lee,HR,23,20,89.7,76.3,2.54,161.7,At Risk
+20,2025-02,Eva Brown,Technology,19,15,81.8,63.5,1.31,146.6,At Risk
+21,2025-02,Frank Wilson,Finance,35,24,70.3,85.9,2.57,163.1,Underperforming
+22,2025-02,Grace Kim,Operations,34,33,97.9,80.1,3.43,191.6,On Track
+23,2025-02,Henry Davis,Sales,15,13,87.4,64.4,3.24,185.1,At Risk
+24,2025-02,Irene Lopez,HR,39,33,86.2,64.2,2.2,167.2,At Risk
+25,2025-02,James White,Technology,45,39,88.8,87.3,3.44,185.7,At Risk
+26,2025-02,Karen Taylor,Finance,31,29,95.1,93.1,1.89,178.3,On Track
+27,2025-02,Liam Johnson,Operations,34,24,71.6,74.2,1.57,197.2,Underperforming
+28,2025-02,Mia Anderson,Sales,44,36,82.5,60.0,1.95,141.2,At Risk
+29,2025-02,Noah Thompson,HR,44,33,77.0,97.4,3.06,154.4,At Risk
+30,2025-02,Olivia Harris,Technology,22,20,94.0,96.0,1.4,169.2,On Track
+31,2025-03,Alice Chen,Finance,17,16,97.3,80.2,1.49,179.6,On Track
+32,2025-03,Bob Martinez,Operations,45,37,83.1,70.1,3.21,165.4,At Risk
+33,2025-03,Carol Smith,Sales,21,20,95.7,88.7,2.79,182.8,On Track
+34,2025-03,David Lee,HR,27,26,97.8,84.7,2.21,171.1,On Track
+35,2025-03,Eva Brown,Technology,18,13,73.2,62.4,1.25,173.2,Underperforming
+36,2025-03,Frank Wilson,Finance,33,23,72.3,62.7,2.65,153.7,Underperforming
+37,2025-03,Grace Kim,Operations,43,28,66.0,72.6,2.38,156.7,Underperforming
+38,2025-03,Henry Davis,Sales,30,21,72.1,65.0,3.35,174.3,Underperforming
+39,2025-03,Irene Lopez,HR,30,21,73.0,78.0,2.14,145.7,Underperforming
+40,2025-03,James White,Technology,36,28,79.2,76.1,2.27,183.7,At Risk
+41,2025-03,Karen Taylor,Finance,36,31,86.6,84.6,1.34,183.7,At Risk
+42,2025-03,Liam Johnson,Operations,40,37,93.4,69.4,1.64,166.9,At Risk
+43,2025-03,Mia Anderson,Sales,28,19,71.1,77.6,3.21,144.5,Underperforming
+44,2025-03,Noah Thompson,HR,40,37,93.4,80.9,1.32,200.0,On Track
+45,2025-03,Olivia Harris,Technology,41,26,65.5,63.5,2.93,154.2,Underperforming
+46,2025-04,Alice Chen,Finance,28,22,81.0,68.1,2.12,143.5,At Risk
+47,2025-04,Bob Martinez,Operations,27,17,65.1,74.8,3.33,187.1,Underperforming
+48,2025-04,Carol Smith,Sales,24,18,79.0,96.4,3.49,173.3,At Risk
+49,2025-04,David Lee,HR,37,29,81.1,67.2,1.7,143.5,At Risk
+50,2025-04,Eva Brown,Technology,38,31,82.9,88.4,1.33,175.1,At Risk
+51,2025-04,Frank Wilson,Finance,31,29,95.3,80.2,1.33,170.5,On Track
+52,2025-04,Grace Kim,Operations,42,29,71.1,82.6,2.75,154.1,Underperforming
+53,2025-04,Henry Davis,Sales,18,17,96.1,81.6,2.53,142.4,On Track
+54,2025-04,Irene Lopez,HR,17,13,78.8,82.2,2.4,196.1,At Risk
+55,2025-04,James White,Technology,21,18,87.1,71.9,1.81,147.9,At Risk
+56,2025-04,Karen Taylor,Finance,35,26,74.9,72.0,2.93,144.4,Underperforming
+57,2025-04,Liam Johnson,Operations,29,24,85.5,81.4,1.43,172.3,At Risk
+58,2025-04,Mia Anderson,Sales,31,22,73.8,95.5,3.23,192.8,Underperforming
+59,2025-04,Noah Thompson,HR,26,19,74.4,76.7,2.45,158.2,Underperforming
+60,2025-04,Olivia Harris,Technology,40,34,86.6,60.3,3.08,158.0,At Risk
+61,2025-05,Alice Chen,Finance,36,24,68.4,93.4,1.81,193.4,Underperforming
+62,2025-05,Bob Martinez,Operations,38,31,83.3,70.3,2.59,183.1,At Risk
+63,2025-05,Carol Smith,Sales,21,18,87.7,92.4,2.36,155.1,At Risk
+64,2025-05,David Lee,HR,44,40,92.9,63.5,2.17,156.6,At Risk
+65,2025-05,Eva Brown,Technology,15,11,76.0,65.0,3.45,149.7,At Risk
+66,2025-05,Frank Wilson,Finance,29,24,83.2,76.3,1.22,144.5,At Risk
+67,2025-05,Grace Kim,Operations,43,37,87.8,65.7,1.28,162.2,At Risk
+68,2025-05,Henry Davis,Sales,32,22,69.9,64.8,1.91,193.9,Underperforming
+69,2025-05,Irene Lopez,HR,40,38,97.1,61.5,2.02,180.9,At Risk
+70,2025-05,James White,Technology,36,24,68.4,89.6,3.23,164.4,Underperforming
+71,2025-05,Karen Taylor,Finance,34,30,89.7,95.2,1.74,149.8,At Risk
+72,2025-05,Liam Johnson,Operations,40,36,91.8,93.5,1.26,184.2,On Track
+73,2025-05,Mia Anderson,Sales,25,22,90.8,75.6,2.74,184.1,At Risk
+74,2025-05,Noah Thompson,HR,22,16,73.8,89.9,1.45,192.3,Underperforming
+75,2025-05,Olivia Harris,Technology,42,33,80.5,67.6,3.31,161.0,At Risk
+76,2025-06,Alice Chen,Finance,41,37,91.2,68.6,1.25,151.6,At Risk
+77,2025-06,Bob Martinez,Operations,25,18,74.2,62.6,2.98,161.1,Underperforming
+78,2025-06,Carol Smith,Sales,31,24,78.2,97.3,2.43,196.4,At Risk
+79,2025-06,David Lee,HR,18,16,93.9,69.9,2.54,199.0,At Risk
+80,2025-06,Eva Brown,Technology,16,10,68.6,76.5,2.88,158.8,Underperforming
+81,2025-06,Frank Wilson,Finance,34,33,97.5,64.4,3.27,151.4,At Risk
+82,2025-06,Grace Kim,Operations,16,14,88.4,60.1,3.33,172.3,At Risk
+83,2025-06,Henry Davis,Sales,38,36,96.0,88.0,1.65,165.9,On Track
+84,2025-06,Irene Lopez,HR,45,39,86.9,72.5,1.92,190.9,At Risk
+85,2025-06,James White,Technology,38,35,94.7,79.3,2.73,159.6,At Risk
+86,2025-06,Karen Taylor,Finance,37,27,74.8,64.8,2.17,196.4,Underperforming
+87,2025-06,Liam Johnson,Operations,36,32,89.7,66.6,2.51,164.4,At Risk
+88,2025-06,Mia Anderson,Sales,41,26,65.0,70.9,2.19,174.8,Underperforming
+89,2025-06,Noah Thompson,HR,35,26,75.6,76.8,2.75,170.7,At Risk
+90,2025-06,Olivia Harris,Technology,40,37,94.7,90.2,1.59,145.1,On Track
+91,2025-07,Alice Chen,Finance,31,26,86.9,83.5,1.41,197.1,At Risk
+92,2025-07,Bob Martinez,Operations,22,19,87.2,68.5,1.66,141.5,At Risk
+93,2025-07,Carol Smith,Sales,22,21,97.5,83.2,2.97,167.3,On Track
+94,2025-07,David Lee,HR,43,36,85.8,67.4,2.8,169.7,At Risk
+95,2025-07,Eva Brown,Technology,22,15,69.9,86.1,3.25,191.6,Underperforming
+96,2025-07,Frank Wilson,Finance,43,29,68.5,76.2,1.6,197.5,Underperforming
+97,2025-07,Grace Kim,Operations,31,24,80.3,81.2,3.31,147.3,At Risk
+98,2025-07,Henry Davis,Sales,19,17,91.4,85.4,3.47,175.7,On Track
+99,2025-07,Irene Lopez,HR,45,40,89.9,76.8,3.07,193.5,At Risk
+100,2025-07,James White,Technology,28,25,92.4,80.8,3.26,184.6,On Track
+101,2025-07,Karen Taylor,Finance,30,23,79.9,88.6,3.13,156.6,At Risk
+102,2025-07,Liam Johnson,Operations,39,32,82.2,83.8,1.83,144.6,At Risk
+103,2025-07,Mia Anderson,Sales,24,17,72.7,72.8,3.25,144.8,Underperforming
+104,2025-07,Noah Thompson,HR,19,13,72.6,86.4,2.82,143.9,Underperforming
+105,2025-07,Olivia Harris,Technology,28,21,75.9,77.7,1.34,190.0,At Risk
+106,2025-08,Alice Chen,Finance,27,25,94.9,82.2,2.8,191.4,On Track
+107,2025-08,Bob Martinez,Operations,39,32,84.0,78.1,3.37,157.9,At Risk
+108,2025-08,Carol Smith,Sales,27,25,93.2,96.2,2.16,184.9,On Track
+109,2025-08,David Lee,HR,32,29,91.4,94.1,2.32,156.4,On Track
+110,2025-08,Eva Brown,Technology,30,19,66.0,72.8,2.76,164.3,Underperforming
+111,2025-08,Frank Wilson,Finance,20,18,92.7,94.9,3.46,172.0,On Track
+112,2025-08,Grace Kim,Operations,44,34,78.0,81.4,1.26,178.6,At Risk
+113,2025-08,Henry Davis,Sales,19,17,93.6,66.9,1.8,159.6,At Risk
+114,2025-08,Irene Lopez,HR,29,21,75.8,88.9,2.07,185.1,At Risk
+115,2025-08,James White,Technology,41,32,78.9,91.7,2.28,184.9,At Risk
+116,2025-08,Karen Taylor,Finance,16,15,98.0,73.3,2.7,186.9,At Risk
+117,2025-08,Liam Johnson,Operations,35,23,66.3,61.2,1.77,190.4,Underperforming
+118,2025-08,Mia Anderson,Sales,34,23,70.0,64.8,2.74,173.8,Underperforming
+119,2025-08,Noah Thompson,HR,21,16,80.3,69.7,2.05,176.4,At Risk
+120,2025-08,Olivia Harris,Technology,45,40,89.7,64.4,3.08,197.9,At Risk
+121,2025-09,Alice Chen,Finance,18,15,84.1,95.3,2.52,194.5,At Risk
+122,2025-09,Bob Martinez,Operations,27,21,78.1,87.2,1.37,181.4,At Risk
+123,2025-09,Carol Smith,Sales,35,25,73.0,86.5,1.89,181.1,Underperforming
+124,2025-09,David Lee,HR,40,27,69.0,97.4,3.0,160.8,Underperforming
+125,2025-09,Eva Brown,Technology,28,24,86.8,62.6,2.69,140.8,At Risk
+126,2025-09,Frank Wilson,Finance,28,25,92.1,64.0,3.41,178.1,At Risk
+127,2025-09,Grace Kim,Operations,41,32,80.2,65.8,1.61,171.3,At Risk
+128,2025-09,Henry Davis,Sales,35,25,73.9,90.7,2.44,169.0,Underperforming
+129,2025-09,Irene Lopez,HR,28,25,92.2,82.5,1.94,154.7,On Track
+130,2025-09,James White,Technology,44,29,67.9,93.5,1.76,167.9,Underperforming
+131,2025-09,Karen Taylor,Finance,34,29,87.1,72.8,2.34,159.5,At Risk
+132,2025-09,Liam Johnson,Operations,30,21,72.0,90.3,1.98,192.8,Underperforming
+133,2025-09,Mia Anderson,Sales,37,34,94.0,81.1,2.39,151.5,On Track
+134,2025-09,Noah Thompson,HR,22,19,88.8,78.6,2.94,181.4,At Risk
+135,2025-09,Olivia Harris,Technology,35,30,88.5,77.0,1.24,157.7,At Risk
+136,2025-10,Alice Chen,Finance,27,23,87.8,71.6,2.54,168.4,At Risk
+137,2025-10,Bob Martinez,Operations,31,23,76.3,97.9,2.47,161.1,At Risk
+138,2025-10,Carol Smith,Sales,29,21,73.9,69.6,1.48,151.6,Underperforming
+139,2025-10,David Lee,HR,18,16,89.5,96.1,2.79,151.5,At Risk
+140,2025-10,Eva Brown,Technology,38,30,81.0,87.5,3.45,171.5,At Risk
+141,2025-10,Frank Wilson,Finance,24,23,97.4,91.6,1.88,161.7,On Track
+142,2025-10,Grace Kim,Operations,24,15,65.5,80.3,1.83,198.5,Underperforming
+143,2025-10,Henry Davis,Sales,32,23,74.6,95.9,2.67,185.2,Underperforming
+144,2025-10,Irene Lopez,HR,18,16,93.8,81.8,2.28,166.4,On Track
+145,2025-10,James White,Technology,20,19,96.9,69.6,3.18,146.8,At Risk
+146,2025-10,Karen Taylor,Finance,17,13,78.2,62.8,2.65,143.2,At Risk
+147,2025-10,Liam Johnson,Operations,19,17,91.8,96.1,1.4,154.9,On Track
+148,2025-10,Mia Anderson,Sales,32,28,90.2,83.0,3.02,153.5,On Track
+149,2025-10,Noah Thompson,HR,31,24,77.6,94.5,1.88,175.3,At Risk
+150,2025-10,Olivia Harris,Technology,28,21,75.1,83.6,2.6,184.4,At Risk
+151,2025-11,Alice Chen,Finance,45,40,90.2,83.8,1.81,144.9,On Track
+152,2025-11,Bob Martinez,Operations,22,15,70.7,62.9,1.21,167.0,Underperforming
+153,2025-11,Carol Smith,Sales,34,27,80.5,61.2,1.86,157.0,At Risk
+154,2025-11,David Lee,HR,42,33,80.0,86.1,3.32,187.3,At Risk
+155,2025-11,Eva Brown,Technology,35,29,84.5,90.5,1.65,146.9,At Risk
+156,2025-11,Frank Wilson,Finance,22,19,86.4,94.5,3.1,144.3,At Risk
+157,2025-11,Grace Kim,Operations,20,18,91.2,82.6,3.1,195.3,On Track
+158,2025-11,Henry Davis,Sales,29,20,69.1,86.2,2.81,196.6,Underperforming
+159,2025-11,Irene Lopez,HR,31,25,82.8,76.6,2.58,193.4,At Risk
+160,2025-11,James White,Technology,38,28,75.6,69.5,1.41,197.7,At Risk
+161,2025-11,Karen Taylor,Finance,41,38,93.4,82.3,1.25,185.9,On Track
+162,2025-11,Liam Johnson,Operations,41,30,73.9,61.5,2.94,168.2,Underperforming
+163,2025-11,Mia Anderson,Sales,35,27,79.6,70.6,3.49,166.2,At Risk
+164,2025-11,Noah Thompson,HR,41,33,81.2,63.5,2.0,160.0,At Risk
+165,2025-11,Olivia Harris,Technology,36,24,68.5,66.1,2.15,169.7,Underperforming
+166,2025-12,Alice Chen,Finance,36,34,96.2,90.9,2.47,167.3,On Track
+167,2025-12,Bob Martinez,Operations,25,18,73.3,64.4,2.98,191.9,Underperforming
+168,2025-12,Carol Smith,Sales,41,40,97.6,85.0,2.45,164.8,On Track
+169,2025-12,David Lee,HR,21,17,82.1,83.7,2.35,166.5,At Risk
+170,2025-12,Eva Brown,Technology,16,11,71.7,80.9,3.33,166.3,Underperforming
+171,2025-12,Frank Wilson,Finance,37,29,81.0,61.1,2.65,188.0,At Risk
+172,2025-12,Grace Kim,Operations,37,25,70.2,80.9,2.47,145.6,Underperforming
+173,2025-12,Henry Davis,Sales,41,39,95.1,77.5,1.47,189.9,At Risk
+174,2025-12,Irene Lopez,HR,30,28,95.8,71.1,2.82,164.9,At Risk
+175,2025-12,James White,Technology,30,29,97.3,69.3,2.47,163.0,At Risk
+176,2025-12,Karen Taylor,Finance,44,37,84.8,88.4,1.51,144.2,At Risk
+177,2025-12,Liam Johnson,Operations,39,35,91.1,75.8,3.35,170.5,At Risk
+178,2025-12,Mia Anderson,Sales,41,26,65.1,87.6,3.13,174.8,Underperforming
+179,2025-12,Noah Thompson,HR,36,29,81.2,65.6,2.44,160.7,At Risk
+180,2025-12,Olivia Harris,Technology,32,28,90.2,74.3,3.35,192.2,At Risk
+181,2026-01,Alice Chen,Finance,37,26,72.9,74.6,3.17,164.6,Underperforming
+182,2026-01,Bob Martinez,Operations,25,22,89.6,86.8,3.07,163.2,At Risk
+183,2026-01,Carol Smith,Sales,36,32,91.1,84.8,1.55,197.9,On Track
+184,2026-01,David Lee,HR,19,15,81.6,82.4,3.2,192.5,At Risk
+185,2026-01,Eva Brown,Technology,29,19,68.3,94.6,1.24,148.6,Underperforming
+186,2026-01,Frank Wilson,Finance,42,36,86.6,65.9,2.28,198.2,At Risk
+187,2026-01,Grace Kim,Operations,25,21,85.6,75.1,1.38,159.7,At Risk
+188,2026-01,Henry Davis,Sales,36,33,93.4,74.4,1.93,183.1,At Risk
+189,2026-01,Irene Lopez,HR,39,31,81.1,80.6,2.62,154.1,At Risk
+190,2026-01,James White,Technology,36,34,95.4,97.9,2.92,166.0,On Track
+191,2026-01,Karen Taylor,Finance,18,16,90.1,86.7,1.43,150.0,On Track
+192,2026-01,Liam Johnson,Operations,24,22,94.8,61.7,3.03,157.6,At Risk
+193,2026-01,Mia Anderson,Sales,26,20,79.2,69.3,2.15,180.9,At Risk
+194,2026-01,Noah Thompson,HR,20,14,70.6,63.0,3.2,177.2,Underperforming
+195,2026-01,Olivia Harris,Technology,22,17,81.4,82.2,1.73,178.3,At Risk
+196,2026-02,Alice Chen,Finance,29,21,73.4,60.4,3.05,194.1,Underperforming
+197,2026-02,Bob Martinez,Operations,36,29,83.0,62.8,3.37,199.3,At Risk
+198,2026-02,Carol Smith,Sales,24,20,86.1,76.1,1.78,190.7,At Risk
+199,2026-02,David Lee,HR,21,20,98.0,92.4,1.45,162.9,On Track
+200,2026-02,Eva Brown,Technology,26,21,84.0,97.7,1.88,198.7,At Risk
+201,2026-02,Frank Wilson,Finance,36,28,78.1,60.3,3.19,186.7,At Risk
+202,2026-02,Grace Kim,Operations,16,15,95.1,88.3,3.12,194.2,On Track
+203,2026-02,Henry Davis,Sales,39,35,91.4,83.1,2.01,178.2,On Track
+204,2026-02,Irene Lopez,HR,34,24,73.3,88.7,2.97,180.9,Underperforming
+205,2026-02,James White,Technology,19,16,85.7,94.3,2.69,158.5,At Risk
+206,2026-02,Karen Taylor,Finance,29,19,66.1,73.9,1.5,194.6,Underperforming
+207,2026-02,Liam Johnson,Operations,25,22,89.7,66.7,1.5,172.4,At Risk
+208,2026-02,Mia Anderson,Sales,26,21,82.5,94.7,3.11,155.4,At Risk
+209,2026-02,Noah Thompson,HR,41,39,96.2,96.8,1.88,192.2,On Track
+210,2026-02,Olivia Harris,Technology,40,27,68.8,96.6,1.52,198.0,Underperforming
+211,2026-03,Alice Chen,Finance,42,36,87.3,85.6,2.11,190.7,At Risk
+212,2026-03,Bob Martinez,Operations,32,24,77.1,90.0,1.23,172.2,At Risk
+213,2026-03,Carol Smith,Sales,29,22,77.2,88.5,1.8,162.9,At Risk
+214,2026-03,David Lee,HR,35,33,96.0,64.1,1.74,141.5,At Risk
+215,2026-03,Eva Brown,Technology,43,41,96.1,72.5,2.6,178.9,At Risk
+216,2026-03,Frank Wilson,Finance,35,32,92.2,94.6,1.9,164.5,On Track
+217,2026-03,Grace Kim,Operations,19,12,66.5,61.4,3.49,147.0,Underperforming
+218,2026-03,Henry Davis,Sales,22,20,94.3,65.2,2.24,180.2,At Risk
+219,2026-03,Irene Lopez,HR,38,33,88.0,80.5,2.55,183.6,At Risk
+220,2026-03,James White,Technology,43,33,78.7,63.8,2.33,164.5,At Risk
+221,2026-03,Karen Taylor,Finance,45,33,74.2,86.2,1.7,166.7,Underperforming
+222,2026-03,Liam Johnson,Operations,22,20,93.2,63.8,2.78,172.7,At Risk
+223,2026-03,Mia Anderson,Sales,35,26,76.8,75.1,1.64,147.3,At Risk
+224,2026-03,Noah Thompson,HR,42,38,92.2,63.5,1.69,178.4,At Risk
+225,2026-03,Olivia Harris,Technology,15,10,66.7,72.7,3.47,187.2,Underperforming
+226,2026-04,Alice Chen,Finance,21,14,67.3,89.1,1.68,153.0,Underperforming
+227,2026-04,Bob Martinez,Operations,42,30,72.7,89.4,3.01,175.8,Underperforming
+228,2026-04,Carol Smith,Sales,23,21,93.3,65.5,1.5,155.0,At Risk
+229,2026-04,David Lee,HR,20,13,68.6,92.9,1.5,161.5,Underperforming
+230,2026-04,Eva Brown,Technology,40,29,72.9,72.3,1.6,143.1,Underperforming
+231,2026-04,Frank Wilson,Finance,38,29,78.9,64.3,1.35,166.9,At Risk
+232,2026-04,Grace Kim,Operations,26,21,81.9,64.1,2.36,196.7,At Risk
+233,2026-04,Henry Davis,Sales,16,14,89.0,94.5,2.72,158.1,At Risk
+234,2026-04,Irene Lopez,HR,35,33,96.8,62.3,2.3,164.1,At Risk
+235,2026-04,James White,Technology,36,24,68.6,87.1,2.22,194.0,Underperforming
+236,2026-04,Karen Taylor,Finance,25,21,85.1,62.5,1.83,178.0,At Risk
+237,2026-04,Liam Johnson,Operations,32,28,88.5,74.5,2.57,157.7,At Risk
+238,2026-04,Mia Anderson,Sales,31,26,85.0,63.8,2.81,191.2,At Risk
+239,2026-04,Noah Thompson,HR,35,32,94.0,81.0,3.19,165.8,On Track
+240,2026-04,Olivia Harris,Technology,43,31,72.5,72.9,2.24,165.0,Underperforming
+241,2026-05,Alice Chen,Finance,18,13,75.3,71.9,1.79,197.2,At Risk
+242,2026-05,Bob Martinez,Operations,36,34,95.5,62.6,3.11,145.6,At Risk
+243,2026-05,Carol Smith,Sales,18,16,89.6,74.2,1.5,143.6,At Risk
+244,2026-05,David Lee,HR,45,37,83.5,72.5,1.48,161.2,At Risk
+245,2026-05,Eva Brown,Technology,36,34,96.1,76.1,3.31,143.1,At Risk
+246,2026-05,Frank Wilson,Finance,24,20,84.8,73.4,2.53,152.8,At Risk
+247,2026-05,Grace Kim,Operations,36,29,80.9,92.2,2.01,173.4,At Risk
+248,2026-05,Henry Davis,Sales,18,16,90.2,81.8,3.06,190.7,On Track
+249,2026-05,Irene Lopez,HR,39,35,92.0,83.3,2.68,141.6,On Track
+250,2026-05,James White,Technology,44,38,86.7,86.4,1.27,156.4,At Risk
+251,2026-05,Karen Taylor,Finance,39,29,75.2,72.9,1.21,192.2,At Risk
+252,2026-05,Liam Johnson,Operations,33,28,86.7,62.6,2.9,198.3,At Risk
+253,2026-05,Mia Anderson,Sales,17,15,89.6,68.2,2.17,160.5,At Risk
+254,2026-05,Noah Thompson,HR,26,19,75.3,72.3,3.37,175.8,At Risk
+255,2026-05,Olivia Harris,Technology,43,28,66.7,66.0,2.62,180.4,Underperforming
+256,2026-06,Alice Chen,Finance,23,18,79.6,76.1,2.6,164.9,At Risk
+257,2026-06,Bob Martinez,Operations,21,18,89.9,64.3,2.19,157.0,At Risk
+258,2026-06,Carol Smith,Sales,36,30,84.6,80.0,1.91,153.2,At Risk
+259,2026-06,David Lee,HR,34,22,66.8,67.8,3.37,186.0,Underperforming
+260,2026-06,Eva Brown,Technology,39,28,73.4,72.5,1.22,184.8,Underperforming
+261,2026-06,Frank Wilson,Finance,20,13,69.3,80.2,1.73,173.5,Underperforming
+262,2026-06,Grace Kim,Operations,36,32,91.6,62.7,3.18,142.5,At Risk
+263,2026-06,Henry Davis,Sales,15,12,80.2,63.0,1.92,165.8,At Risk
+264,2026-06,Irene Lopez,HR,27,23,88.4,75.9,1.46,141.3,At Risk
+265,2026-06,James White,Technology,25,17,70.7,96.0,2.26,181.4,Underperforming
+266,2026-06,Karen Taylor,Finance,26,17,67.9,92.1,1.76,175.3,Underperforming
+267,2026-06,Liam Johnson,Operations,31,20,67.6,93.1,2.92,153.3,Underperforming
+268,2026-06,Mia Anderson,Sales,39,27,70.5,79.4,1.46,170.6,Underperforming
+269,2026-06,Noah Thompson,HR,43,38,90.6,73.3,3.4,178.7,At Risk
+270,2026-06,Olivia Harris,Technology,19,13,72.8,65.6,1.65,176.1,Underperforming
